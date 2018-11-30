@@ -1,9 +1,12 @@
-#idc_ping_monitor
+>>####（b）测试脚本
 
-IDC机房测速工具，由3个组件组成：
-smokeping：主要负责采集数据
-prometheus：主要负责存储数据
-grafana：主要负责采集数据
+准备一个python文件，每秒往test.log写入hello world
 
-###
-
+```
+root@Bastion:/mnt# more device_test.py
+import time
+f = open('test.log','a+')
+while 1:
+    f.write('hello world\n')
+    time.sleep(1)
+```
