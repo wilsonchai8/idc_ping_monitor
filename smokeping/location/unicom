@@ -1,0 +1,165 @@
++ UNICOM
+menu = 联通
+title = 联通
+
+
+++ beijing
+menu = 北京
+title = 61.135.169.125
+host = 61.135.169.125
+
+++ tianjin
+menu = 天津
+title = 202.99.96.38
+host = 202.99.96.38
+
+++ hebei
+menu = 河北
+title = 60.8.10.39
+host = 60.8.10.39
+
+++ neimenggu
+menu = 内蒙古
+title = 1.24.200.1
+host = 1.24.200.1
+
+++ liaoning
+menu = 辽宁
+title = 218.60.54.164
+host = 218.60.54.164
+
+++ heilongjiang
+menu = 黑龙江
+title = 1.62.111.1
+host = 1.62.111.1
+
+++ jilin
+menu = 吉林
+title = 125.32.127.2
+host = 125.32.127.2
+
+++ shandong 
+menu = 山东
+title = 27.211.0.1
+host = 27.211.0.1
+
+++ shanxi 
+menu = 山西
+title = 218.26.171.2
+host = 218.26.171.2
+
+++ shanghai 
+menu = 上海
+title = 58.39.117.1
+host = 58.39.117.1
+
+
+++ zhejiang 
+menu = 浙江
+title = 43.240.204.1
+host = 43.240.204.1
+
+++ jiangsu 
+menu = 江苏
+title = 112.80.248.75
+host = 112.80.248.75
+
+++ anhui 
+menu = 安徽
+title = 36.32.0.1
+host = 36.32.0.1
+
+++ jiangxi 
+menu = 江西
+title = 118.212.189.129
+host = 118.212.189.129
+
+++ fujian
+menu = 福建
+title = 202.101.98.55
+host = 202.101.98.55
+
+++ henan
+menu = 河南
+title = 61.54.42.250
+host = 61.54.42.250
+
+++ hubei
+menu = 湖北
+title = 218.106.115.1
+host = 218.106.115.1
+
+++ hunan
+menu = 湖南
+title = 42.48.0.1
+host = 42.48.0.1
+
+++ guangdong
+menu = 广东
+title = 163.177.151.110
+host = 163.177.151.110
+
+++ guangxi
+menu = 广西
+title = 110.72.232.1
+host = 110.72.232.1
+
+++ shenzhen
+menu = 深圳
+title = 58.250.0.1
+host = 58.250.0.1
+
+++ hainan
+menu = 海南
+title = 124.66.0.1
+host = 124.66.0.1
+
+++ sichuan
+menu = 四川
+title = 112.193.58.1
+host = 112.193.58.1
+
+++ chongqing
+menu = 重庆
+title = 27.9.99.1
+host = 27.9.99.1
+
+++ guizhou
+menu = guizhou
+title = 58.16.244.1
+host = 58.16.244.1
+
+++ yunnan
+menu = 云南
+title = 14.204.208.1
+host = 14.204.208.1
+
+++ xizang
+menu = 西藏
+title = 27.98.236.1
+host = 27.98.236.1
+
+++ shaanxi
+menu = 陕西
+title = 123.139.196.1
+host = 123.139.196.1
+
+++ ningxia
+menu = 宁夏
+title = 211.93.0.1
+host = 211.93.0.1
+
+++ gansu
+menu = 甘肃
+title = 60.13.0.1
+host = 60.13.0.1
+
+++ qinghai
+menu = 青海
+title = 175.184.184.1
+host = 175.184.184.1
+
+++ xinjiang
+menu = 新疆
+title = 60.13.194.1
+host = 60.13.194.1

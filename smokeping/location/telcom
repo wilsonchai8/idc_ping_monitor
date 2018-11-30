@@ -1,0 +1,164 @@
++ TELCOM
+menu = 电信
+title = 电信
+
+
+++ beijing
+menu = 北京
+title = 220.181.111.37
+host = 220.181.111.37
+
+++ tianjin
+menu = 天津
+title = 42.122.0.1
+host = 42.122.0.1
+
+++ hebei
+menu = 河北
+title = 47.92.159.1
+host = 47.92.159.1
+
+++ neimenggu
+menu = 内蒙古
+title = 42.123.64.1
+host = 42.123.64.1
+
+++ liaoning
+menu = 辽宁
+title = 1.180.240.1
+host = 1.180.240.1
+
+++ heilongjiang
+menu = 黑龙江
+title = 222.170.0.61
+host = 222.170.0.61
+
+++ jilin
+menu = 吉林
+title = 222.168.78.1
+host = 222.168.78.1
+
+++ shandong 
+menu = 山东
+title = 42.199.255.100
+host = 42.199.255.100
+
+++ shanxi 
+menu = 山西
+title = 59.49.13.40
+host = 59.49.13.40
+
+++ shanghai 
+menu = 上海
+title = 42.99.16.1
+host = 42.99.16.1
+
+++ zhejiang 
+menu = 浙江
+title = 36.24.124.1
+host = 36.24.124.1
+
+++ jiangsu 
+menu = 江苏
+title = 221.231.191.214
+host = 221.231.191.214
+
+++ anhui 
+menu = 安徽
+title = 61.190.246.5
+host = 61.190.246.5
+
+++ jiangxi 
+menu = 江西
+title = 202.101.224.68
+host = 202.101.224.68
+
+++ fujian
+menu = 福建
+title = 202.101.98.55
+host = 202.101.98.55
+
+++ henan
+menu = 河南
+title = 1.193.128.1
+host = 1.193.128.1
+
+++ hubei
+menu = 湖北
+title = 111.175.233.30
+host = 111.175.233.30
+
+++ hunan
+menu = 湖南
+title = 124.232.134.54
+host = 124.232.134.54
+
+++ guangdong
+menu = 广东
+title = 14.215.177.38
+host = 14.215.177.38
+
+++ guangxi
+menu = 广西
+title = 222.217.164.38
+host = 222.217.164.38
+
+++ shenzhen
+menu = 深圳
+title = 58.60.3.102
+host = 58.60.3.102
+
+++ hainan
+menu = 海南
+title = 112.66.250.63
+host = 112.66.250.63
+
+++ sichuan
+menu = 四川
+title = 61.139.2.69
+host = 61.139.2.69
+
+++ chongqing
+menu = 重庆
+title = 14.106.255.33
+host = 14.106.255.33
+
+++ guizhou
+menu = guizhou
+title = 59.51.128.31
+host = 59.51.128.31
+
+++ yunnan
+menu = 云南
+title = 222.172.200.5
+host = 222.172.200.5
+
+++ xizang
+menu = 西藏
+title = 124.31.0.1
+host = 124.31.0.1
+
+++ shaanxi
+menu = 陕西
+title = 125.76.191.163
+host = 125.76.191.163
+
+++ ningxia
+menu = 宁夏
+title = 61.133.192.51
+host = 61.133.192.51
+
+++ gansu
+menu = 甘肃
+title = 61.178.252.218
+host = 61.178.252.218
+
+++ qinghai
+menu = 青海
+title = 223.220.241.26
+host = 223.220.241.26
+
+++ xinjiang
+menu = 新疆
+title = 61.128.96.1
+host = 61.128.96.1
