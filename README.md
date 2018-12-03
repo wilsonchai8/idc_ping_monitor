@@ -69,7 +69,7 @@ crontab -e
 
 >> （3）grafana
 
-将模板导入grafana即可，效果大概是这样
+将模板grafana/ping_monitor.json 导入grafana即可，效果大概是这样
 
 ![](img/grafana_01.png)
 ![](img/grafana_02.png)
