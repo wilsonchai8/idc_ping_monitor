@@ -71,5 +71,5 @@ crontab -e
 
 将模板导入grafana即可，效果大概是这样
 
-![](grafana/grafana_01.png)
-![](grafana/grafana_02.png)
+![](img/grafana_01.png)
+![](img/grafana_02.png)
