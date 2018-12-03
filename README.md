@@ -36,8 +36,21 @@ mkdir -p $smokeping_home_dir/cache
 mkdir -p $smokeping_home_dir/data
 mkdir -p $smokeping_home_dir/var
 chmod -R 0755 $smokeping_home_dir
-
-
+chmod 600 $smokeping_home_dir/etc/smokeping_secrets.dist
+$smokeping_home_dir/bin/smokeping
 ```
 
-下载
+错误：
+
+```
+Resetting LC_NUMERIC failed probably because your international setup of the LC_ALL to "en_US.UTF-8" is overridding LC_NUMERIC.  Setting LC_ALL is not compatible with smokeping... at /usr/local/smokeping/bin/../lib/Smokeping.pm line 47.
+Compilation failed in require at /usr/local/smokeping/bin/smokeping line 12.
+BEGIN failed--compilation aborted at /usr/local/smokeping/bin/smokeping line 12.
+```
+处理方式：
+```
+unset LC_ALL
+```
+
+>> prometheus
+
