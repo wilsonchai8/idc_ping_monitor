@@ -69,9 +69,12 @@ crontab -e
 
 在/usr/local/smokeping/collection_to_prometheus.py中，按照实际情况配置3个参数：  
 
+```python
 'LOG_FILE' : '/tmp/smoking_pushgateway.log'             # 日志文件  
 'prometheus_gateway' : 'http://192.168.56.101:9091' ,   # Prometheus gateway地址  
 'data_dir' : '/usr/local/smokeping/data'                # smokeping rrd文件的存放地址  
+```
+
 
 >> （3）grafana
 
