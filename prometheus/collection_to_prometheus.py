@@ -41,8 +41,8 @@ paras = {
         'yunnan'        : '云南' ,
         'zhejiang'      : '浙江'
     } , 
-    'LOG_FILE' : '/home/www/logs/smoking_pushgateway.log' , 
-    'prometheus_gateway' : 'http://10.40.54.59:9091' , 
+    'LOG_FILE' : '/tmp/smoking_pushgateway.log' , 
+    'prometheus_gateway' : 'http://192.168.56.101:9091' , 
     'data_dir' : '/usr/local/smokeping/data'
 }
 
