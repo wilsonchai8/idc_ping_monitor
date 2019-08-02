@@ -137,7 +137,7 @@ class GetInfo(object):
             for_count = ip_end_int - ip_start_int + 1
         for count in range(for_count):
             ip_addr = IPy.IP(ip_start_int + count).strNormal(0)
-            os_code = not os.system("ping -c 1 -t 1 "+ ip_addr +" > /dev/null") if True else False
+            os_code = not os.system("ping -c 1 -w 1 "+ ip_addr +" > /dev/null") if True else False
             if os_code :
                 break
         return (os_code , ip_addr)
