@@ -40,26 +40,9 @@ paras = {
         'yunnan'        : '云南' ,
         'zhejiang'      : '浙江'
     } , 
-    'LOG_FILE' : '/tmp/smoking_pushgateway.log' , 
     'prometheus_gateway' : 'http://192.168.56.101:9091' , 
     'data_dir' : '/usr/local/smokeping/data'
 }
-
-class LogHandler(object):
-    def __init__(self, name):
-        self.handler = logging.handlers.RotatingFileHandler(paras['LOG_FILE'] , maxBytes = 1024*1024 , backupCount = 5)
-        formatter = logging.Formatter('%(asctime)s - %(name)s - %(message)s')
-        self.handler.setFormatter(formatter)
-        self.logger = logging.getLogger(name)
-        self.logger.addHandler(self.handler)
-
-    def __call__(self , func , *args , **kwargs):
-        if func.__name__ == 'info' :
-            self.logger.setLevel(logging.INFO)
-            log_record = func(*args , **kwargs)
-            self.logger.info(log_record)
-            self.logger.removeHandler(self.handler)
-
 
 def pushMetrics(instance , ISP , key , value):
     headers = {'X-Requested-With': 'Python requests', 'Content-type': 'text/xml'}

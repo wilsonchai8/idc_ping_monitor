@@ -1,164 +1,164 @@
-+ CMCC
-menu = 移动
-title = 移动
-
++ CMCC 
+menu = 移动 
+title = 移动 
 
 ++ beijing
 menu = 北京
-title = 218.205.128.1
-host = 218.205.128.1
+title = 39.137.71.1
+host = 39.137.71.1
 
 ++ tianjin
 menu = 天津
-title = 211.137.160.1
-host = 211.137.160.1
+title = 39.134.140.1
+host = 39.134.140.1
 
 ++ hebei
 menu = 河北
-title = 111.11.64.142
-host = 111.11.64.142
+title = 39.134.187.1
+host = 39.134.187.1
 
 ++ neimenggu
 menu = 内蒙古
-title = 120.193.128.1
-host = 120.193.128.1
+title = 39.134.168.1
+host = 39.134.168.1
 
 ++ liaoning
 menu = 辽宁
-title = 211.140.192.4
-host = 211.140.192.4
+title = 39.134.52.1
+host = 39.134.52.1
 
 ++ heilongjiang
 menu = 黑龙江
-title = 111.40.0.1
-host = 111.40.0.1
+title = 39.134.62.1
+host = 39.134.62.1
 
 ++ jilin
 menu = 吉林
-title = 211.137.209.1
-host = 211.137.209.1
+title = 39.134.160.1
+host = 39.134.160.1
 
-++ shandong 
+++ shandong
 menu = 山东
-title = 111.14.208.227
-host = 111.14.208.227
+title = 39.134.146.65
+host = 39.134.146.65
 
-++ shanxi 
+++ shanxi
 menu = 山西
-title = 111.53.0.1
-host = 111.53.0.1
+title = 39.134.26.1
+host = 39.134.26.1
 
-++ shanghai 
+++ shanghai
 menu = 上海
-title = 117.184.42.114
-host = 117.184.42.114
+title = 39.134.86.1
+host = 39.134.86.1
 
-++ zhejiang 
+++ zhejiang
 menu = 浙江
-title = 39.189.192.1
-host = 39.189.192.1
+title = 39.134.179.193
+host = 39.134.179.193
 
-++ jiangsu 
+++ jiangsu
 menu = 江苏
-title = 120.195.118.1
-host = 120.195.118.1
+title = 36.152.44.1
+host = 36.152.44.1
 
-++ anhui 
+++ anhui
 menu = 安徽
-title = 211.138.191.65
-host = 211.138.191.65
+title = 39.134.120.1
+host = 39.134.120.1
 
-++ jiangxi 
+++ jiangxi
 menu = 江西
-title = 218.204.68.41
-host = 218.204.68.41
+title = 39.134.114.1
+host = 39.134.114.1
 
 ++ fujian
 menu = 福建
-title = 112.51.0.1
-host = 112.51.0.1
+title = 39.135.48.1
+host = 39.135.48.1
 
 ++ henan
 menu = 河南
-title = 111.7.128.1
-host = 111.7.128.1
+title = 39.134.210.1
+host = 39.134.210.1
 
 ++ hubei
 menu = 湖北
-title = 211.137.79.134
-host = 211.137.79.134
+title = 39.135.20.1
+host = 39.135.20.1
 
 ++ hunan
 menu = 湖南
-title = 111.8.37.1
-host = 111.8.37.1
+title = 39.134.253.1
+host = 39.134.253.1
 
 ++ guangdong
 menu = 广东
-title = 183.232.231.172
-host = 183.232.231.172
+title = 39.135.62.1
+host = 39.135.62.1
 
 ++ guangxi
 menu = 广西
-title = 111.12.25.1
-host = 111.12.25.1
+title = 36.159.103.1
+host = 36.159.103.1
 
 ++ shenzhen
 menu = 深圳
-title = 120.196.165.24
-host = 120.196.165.24
+title = 39.137.29.177
+host = 39.137.29.177
 
 ++ hainan
 menu = 海南
-title = 183.254.0.1
-host = 183.254.0.1
+title = 39.134.136.1
+host = 39.134.136.1
 
 ++ sichuan
 menu = 四川
-title = 111.9.142.1
-host = 111.9.142.1
+title = 39.134.196.1
+host = 39.134.196.1
 
 ++ chongqing
 menu = 重庆
-title = 218.206.10.211
-host = 218.206.10.211
+title = 39.134.0.1
+host = 39.134.0.1
 
 ++ guizhou
 menu = 贵州
-title = 117.135.211.1
-host = 117.135.211.1
+title = 39.135.8.1
+host = 39.135.8.1
 
 ++ yunnan
 menu = 云南
-title = 183.224.40.1
-host = 183.224.40.1
+title = 14.204.68.74
+host = 14.204.68.74
 
 ++ xizang
 menu = 西藏
-title = 117.136.18.1
-host = 117.136.18.1
+title = 39.135.6.1
+host = 39.135.6.1
 
 ++ shaanxi
 menu = 陕西
-title = 111.20.242.1
-host = 111.20.242.1
+title = 39.134.17.3
+host = 39.134.17.3
 
 ++ ningxia
 menu = 宁夏
-title = 211.138.60.1
-host = 211.138.60.1
+title = 39.134.93.1
+host = 39.134.93.1
 
 ++ gansu
 menu = 甘肃
-title = 218.203.196.1
-host = 218.203.196.1
+title = 39.134.32.1
+host = 39.134.32.1
 
 ++ qinghai
 menu = 青海
-title = 117.136.29.1
-host = 117.136.29.1
+title = 39.134.159.1
+host = 39.134.159.1
 
 ++ xinjiang
 menu = 新疆
-title = 36.187.251.1
-host = 36.187.251.1
+title = 39.134.236.1
+host = 39.134.236.1
+
