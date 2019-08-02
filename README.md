@@ -94,7 +94,7 @@ crontab -e
 1、增加自动获取各省可用IP的脚本  
 2、运行之后会自动更新smokeping/location下的cmcc telcom unicom三个文件  
 3、脚本运行时间大约10分钟，并且是全量更新  
-4、python版本3.5.2之后  
+4、python版本3.7.3之后  
 5、运行日志：`/tmp/idc_ping_monitor.log`  
 
 ```
