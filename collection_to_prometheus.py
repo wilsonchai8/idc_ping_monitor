@@ -47,7 +47,7 @@ paras = {
 def pushMetrics(instance , ISP , key , value):
     headers = {'X-Requested-With': 'Python requests', 'Content-type': 'text/xml'}
     pushgateway = '%s/metrics/job/smokeping-collected-%s/instance/%s' % (paras['prometheus_gateway'] , ISP , instance)
-    metrics = 'smokeping_%s{instance=\"%s\" , ISP=\"%s\" , IDC=\"%s\" , alias=\"%s\"} %d' % (key , instance , ISP , 'SH' , instance , value)
+    metrics = 'smokeping_%s{instance=\"%s\" , ISP=\"%s\" , IDC=\"%s\" , alias=\"%s\"} %d' % (key , instance , ISP , 'SH' , paras['province_map'].get(instance) , value)
     request_code = requests.post(pushgateway , data='{0}\n'.format(metrics) , headers=headers)
     @LogHandler(pushgateway)
     def info():
