@@ -25,6 +25,20 @@ docker rm -f idc_sidecar
 docker run -d --name idc_sidecar -e PUSHGATEWAY_URL=10.22.12.178:9091 -v idc_ping_monitor_V:/opt -v ./data/:/data registry.cn-beijing.aliyuncs.com/wilsonchai/idc_sidecar:v1
 ```
 
+## 编译
+
+如果需要自己编译，也可以进入两个目录分别操作
+
+- idc_smokeping
+  ```
+  cd smokeping && docker build . -t registry.cn-beijing.aliyuncs.com/wilsonchai/idc_smokeping:v1
+  ```
+
+- idc_sidecar
+  ```
+  cd sidecar && docker build . -t registry.cn-beijing.aliyuncs.com/wilsonchai/idc_sidecar:v1
+  ```
+
 ## 详解
 
 - `idc_smokeping`：使用smokeping作为数据采集端，负责采集到各城市ip的ping数据，存为rrd格式的数据文件，每3分钟采集一次，并且每3小时会应用一次新的城市ip（如果有更新）
