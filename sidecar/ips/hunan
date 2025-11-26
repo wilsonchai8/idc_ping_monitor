@@ -1,0 +1,271 @@
++ hunan
+
+menu = 湖南
+title = 湖南
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ changsha
+
+menu = 长沙
+title = 长沙
+host = 36.111.200.3
+
++++ yueyang
+
+menu = 岳阳
+title = 岳阳
+host = 58.44.12.6
+
++++ zhuzhou
+
+menu = 株洲
+title = 株洲
+host = 58.45.0.3
+
++++ xiangtan
+
+menu = 湘潭
+title = 湘潭
+host = 58.45.179.1
+
++++ loudi
+
+menu = 娄底
+title = 娄底
+host = 58.46.0.5
+
++++ huaihua
+
+menu = 怀化
+title = 怀化
+host = 58.46.128.1
+
++++ changde
+
+menu = 常德
+title = 常德
+host = 58.47.4.1
+
++++ yiyang
+
+menu = 益阳
+title = 益阳
+host = 58.47.128.1
+
++++ hengyang
+
+menu = 衡阳
+title = 衡阳
+host = 59.51.0.25
+
++++ chenzhou
+
+menu = 郴州
+title = 郴州
+host = 61.137.10.69
+
++++ shaoyang
+
+menu = 邵阳
+title = 邵阳
+host = 61.137.11.125
+
++++ yongzhou
+
+menu = 永州
+title = 永州
+host = 61.137.11.141
+
++++ xiangxi
+
+menu = 湘西
+title = 湘西
+host = 61.137.14.245
+
++++ zhangjiajie
+
+menu = 张家界
+title = 张家界
+host = 118.254.0.1
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ changsha
+
+menu = 长沙
+title = 长沙
+host = 36.133.12.2
+
++++ changde
+
+menu = 常德
+title = 常德
+host = 36.148.41.44
+
++++ hengyang
+
+menu = 衡阳
+title = 衡阳
+host = 36.158.172.66
+
++++ huaihua
+
+menu = 怀化
+title = 怀化
+host = 36.158.162.99
+
++++ zhangjiajie
+
+menu = 张家界
+title = 张家界
+host = 36.148.119.120
+
++++ yiyang
+
+menu = 益阳
+title = 益阳
+host = 36.158.172.114
+
++++ yueyang
+
+menu = 岳阳
+title = 岳阳
+host = 36.157.45.2
+
++++ loudi
+
+menu = 娄底
+title = 娄底
+host = 36.157.182.3
+
++++ yongzhou
+
+menu = 永州
+title = 永州
+host = 36.158.158.65
+
++++ chenzhou
+
+menu = 郴州
+title = 郴州
+host = 36.158.159.33
+
++++ zhuzhou
+
+menu = 株洲
+title = 株洲
+host = 36.158.172.41
+
++++ shaoyang
+
+menu = 邵阳
+title = 邵阳
+host = 36.158.172.129
+
++++ xiangxi
+
+menu = 湘西
+title = 湘西
+host = 36.158.172.229
+
++++ xiangtan
+
+menu = 湘潭
+title = 湘潭
+host = 36.158.173.12
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ changsha
+
+menu = 长沙
+title = 长沙
+host = 42.48.0.4
+
++++ huaihua
+
+menu = 怀化
+title = 怀化
+host = 42.48.11.3
+
++++ loudi
+
+menu = 娄底
+title = 娄底
+host = 42.48.88.1
+
++++ chenzhou
+
+menu = 郴州
+title = 郴州
+host = 42.48.90.1
+
++++ zhangjiajie
+
+menu = 张家界
+title = 张家界
+host = 42.48.123.1
+
++++ zhuzhou
+
+menu = 株洲
+title = 株洲
+host = 42.48.128.254
+
++++ shaoyang
+
+menu = 邵阳
+title = 邵阳
+host = 42.48.173.1
+
++++ hengyang
+
+menu = 衡阳
+title = 衡阳
+host = 42.48.187.33
+
++++ yueyang
+
+menu = 岳阳
+title = 岳阳
+host = 42.48.197.1
+
++++ yongzhou
+
+menu = 永州
+title = 永州
+host = 42.49.80.1
+
++++ xiangtan
+
+menu = 湘潭
+title = 湘潭
+host = 42.49.97.40
+
++++ changde
+
+menu = 常德
+title = 常德
+host = 42.49.128.1
+
++++ xiangxi
+
+menu = 湘西
+title = 湘西
+host = 42.49.176.1
+
++++ yiyang
+
+menu = 益阳
+title = 益阳
+host = 42.49.208.1

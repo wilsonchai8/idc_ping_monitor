@@ -1,0 +1,307 @@
++ yunnan
+
+menu = 云南
+title = 云南
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ kunming
+
+menu = 昆明
+title = 昆明
+host = 14.204.4.1
+
++++ xishuangbanna
+
+menu = 西双版纳
+title = 西双版纳
+host = 14.204.128.44
+
++++ qujing
+
+menu = 曲靖
+title = 曲靖
+host = 14.204.162.23
+
++++ lincang
+
+menu = 临沧
+title = 临沧
+host = 14.204.192.1
+
++++ zhaotong
+
+menu = 昭通
+title = 昭通
+host = 14.204.196.3
+
++++ diqing
+
+menu = 迪庆
+title = 迪庆
+host = 14.204.204.13
+
++++ baoshan
+
+menu = 保山
+title = 保山
+host = 14.204.212.1
+
++++ honghe
+
+menu = 红河
+title = 红河
+host = 14.204.216.1
+
++++ dali
+
+menu = 大理
+title = 大理
+host = 14.205.4.1
+
++++ yuxi
+
+menu = 玉溪
+title = 玉溪
+host = 14.205.41.10
+
++++ puer
+
+menu = 普洱
+title = 普洱
+host = 14.205.112.4
+
++++ chuxiong
+
+menu = 楚雄
+title = 楚雄
+host = 14.205.166.65
+
++++ lijiang
+
+menu = 丽江
+title = 丽江
+host = 119.62.184.6
+
++++ nujiang
+
+menu = 怒江
+title = 怒江
+host = 119.62.188.249
+
++++ wenshan
+
+menu = 文山
+title = 文山
+host = 119.62.216.33
+
++++ dehong
+
+menu = 德宏
+title = 德宏
+host = 180.130.80.1
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ kunming
+
+menu = 昆明
+title = 昆明
+host = 36.134.74.9
+
++++ qujing
+
+menu = 曲靖
+title = 曲靖
+host = 39.128.42.15
+
++++ dali
+
+menu = 大理
+title = 大理
+host = 39.128.49.129
+
++++ zhaotong
+
+menu = 昭通
+title = 昭通
+host = 39.129.64.1
+
++++ yuxi
+
+menu = 玉溪
+title = 玉溪
+host = 39.128.80.1
+
++++ xishuangbanna
+
+menu = 西双版纳
+title = 西双版纳
+host = 39.128.100.245
+
++++ chuxiong
+
+menu = 楚雄
+title = 楚雄
+host = 39.129.112.1
+
++++ lincang
+
+menu = 临沧
+title = 临沧
+host = 39.128.131.39
+
++++ wenshan
+
+menu = 文山
+title = 文山
+host = 39.128.144.2
+
++++ honghe
+
+menu = 红河
+title = 红河
+host = 39.128.160.4
+
++++ baoshan
+
+menu = 保山
+title = 保山
+host = 39.128.211.195
+
++++ lijiang
+
+menu = 丽江
+title = 丽江
+host = 39.129.224.3
+
++++ nujiang
+
+menu = 怒江
+title = 怒江
+host = 183.224.26.212
+
++++ puer
+
+menu = 普洱
+title = 普洱
+host = 39.129.176.1
+
++++ dehong
+
+menu = 德宏
+title = 德宏
+host = 39.129.192.1
+
++++ diqing
+
+menu = 迪庆
+title = 迪庆
+host = 39.129.244.1
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ xishuangbanna
+
+menu = 西双版纳
+title = 西双版纳
+host = 42.242.0.1
+
++++ qujing
+
+menu = 曲靖
+title = 曲靖
+host = 42.242.68.1
+
++++ zhaotong
+
+menu = 昭通
+title = 昭通
+host = 42.242.128.1
+
++++ honghe
+
+menu = 红河
+title = 红河
+host = 42.242.160.3
+
++++ baoshan
+
+menu = 保山
+title = 保山
+host = 42.242.192.1
+
++++ kunming
+
+menu = 昆明
+title = 昆明
+host = 42.243.0.1
+
++++ yuxi
+
+menu = 玉溪
+title = 玉溪
+host = 42.243.160.4
+
++++ chuxiong
+
+menu = 楚雄
+title = 楚雄
+host = 42.243.192.2
+
++++ dehong
+
+menu = 德宏
+title = 德宏
+host = 42.243.224.1
+
++++ dali
+
+menu = 大理
+title = 大理
+host = 60.160.32.1
+
++++ wenshan
+
+menu = 文山
+title = 文山
+host = 60.160.225.4
+
++++ lincang
+
+menu = 临沧
+title = 临沧
+host = 60.161.128.1
+
++++ lijiang
+
+menu = 丽江
+title = 丽江
+host = 60.161.194.1
+
++++ nujiang
+
+menu = 怒江
+title = 怒江
+host = 61.166.44.2
+
++++ puer
+
+menu = 普洱
+title = 普洱
+host = 61.166.70.3
+
++++ diqing
+
+menu = 迪庆
+title = 迪庆
+host = 61.166.147.1

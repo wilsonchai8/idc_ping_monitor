@@ -1,0 +1,271 @@
++ liaoning
+
+menu = 辽宁
+title = 辽宁
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ shenyang
+
+menu = 沈阳
+title = 沈阳
+host = 36.129.0.1
+
++++ jinzhou
+
+menu = 锦州
+title = 锦州
+host = 36.129.76.1
+
++++ fushun
+
+menu = 抚顺
+title = 抚顺
+host = 36.129.80.1
+
++++ tieling
+
+menu = 铁岭
+title = 铁岭
+host = 36.129.88.1
+
++++ dalian
+
+menu = 大连
+title = 大连
+host = 36.129.128.1
+
++++ anshan
+
+menu = 鞍山
+title = 鞍山
+host = 36.129.160.1
+
++++ huludao
+
+menu = 葫芦岛
+title = 葫芦岛
+host = 39.152.60.1
+
++++ zhaoyang
+
+menu = 朝阳
+title = 朝阳
+host = 39.152.64.1
+
++++ fuxin
+
+menu = 阜新
+title = 阜新
+host = 39.152.80.1
+
++++ panjin
+
+menu = 盘锦
+title = 盘锦
+host = 39.152.104.1
+
++++ dandong
+
+menu = 丹东
+title = 丹东
+host = 39.152.176.2
+
++++ benxi
+
+menu = 本溪
+title = 本溪
+host = 39.152.192.1
+
++++ liaoyang
+
+menu = 辽阳
+title = 辽阳
+host = 39.152.208.2
+
++++ yingkou
+
+menu = 营口
+title = 营口
+host = 39.152.224.1
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ zhaoyang
+
+menu = 朝阳
+title = 朝阳
+host = 42.4.0.38
+
++++ dandong
+
+menu = 丹东
+title = 丹东
+host = 42.4.16.7
+
++++ fushun
+
+menu = 抚顺
+title = 抚顺
+host = 42.4.49.1
+
++++ jinzhou
+
+menu = 锦州
+title = 锦州
+host = 42.4.64.71
+
++++ tieling
+
+menu = 铁岭
+title = 铁岭
+host = 42.4.96.87
+
++++ fuxin
+
+menu = 阜新
+title = 阜新
+host = 42.4.128.101
+
++++ panjin
+
+menu = 盘锦
+title = 盘锦
+host = 42.4.192.4
+
++++ huludao
+
+menu = 葫芦岛
+title = 葫芦岛
+host = 42.5.32.2
+
++++ yingkou
+
+menu = 营口
+title = 营口
+host = 42.5.64.157
+
++++ liaoyang
+
+menu = 辽阳
+title = 辽阳
+host = 42.5.96.1
+
++++ anshan
+
+menu = 鞍山
+title = 鞍山
+host = 42.5.160.1
+
++++ dalian
+
+menu = 大连
+title = 大连
+host = 42.7.40.82
+
++++ shenyang
+
+menu = 沈阳
+title = 沈阳
+host = 42.53.192.68
+
++++ benxi
+
+menu = 本溪
+title = 本溪
+host = 42.85.0.1
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ dandong
+
+menu = 丹东
+title = 丹东
+host = 42.202.2.1
+
++++ tieling
+
+menu = 铁岭
+title = 铁岭
+host = 42.202.16.1
+
++++ fuxin
+
+menu = 阜新
+title = 阜新
+host = 42.202.24.7
+
++++ anshan
+
+menu = 鞍山
+title = 鞍山
+host = 42.202.32.3
+
++++ dalian
+
+menu = 大连
+title = 大连
+host = 42.202.128.9
+
++++ zhaoyang
+
+menu = 朝阳
+title = 朝阳
+host = 42.202.192.1
+
++++ fushun
+
+menu = 抚顺
+title = 抚顺
+host = 42.203.0.35
+
++++ huludao
+
+menu = 葫芦岛
+title = 葫芦岛
+host = 42.203.96.1
+
++++ jinzhou
+
+menu = 锦州
+title = 锦州
+host = 42.248.14.1
+
++++ shenyang
+
+menu = 沈阳
+title = 沈阳
+host = 42.248.76.6
+
++++ yingkou
+
+menu = 营口
+title = 营口
+host = 42.248.120.1
+
++++ panjin
+
+menu = 盘锦
+title = 盘锦
+host = 59.45.0.1
+
++++ benxi
+
+menu = 本溪
+title = 本溪
+host = 59.45.66.1
+
++++ liaoyang
+
+menu = 辽阳
+title = 辽阳
+host = 59.45.192.33

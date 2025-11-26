@@ -1,0 +1,271 @@
++ guangxi
+
+menu = 广西
+title = 广西
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ nanning
+
+menu = 南宁
+title = 南宁
+host = 36.134.86.10
+
++++ qinzhou
+
+menu = 钦州
+title = 钦州
+host = 36.159.3.18
+
++++ hezhou
+
+menu = 贺州
+title = 贺州
+host = 36.159.4.42
+
++++ guigang
+
+menu = 贵港
+title = 贵港
+host = 36.159.5.62
+
++++ guilin
+
+menu = 桂林
+title = 桂林
+host = 36.159.6.42
+
++++ beihai
+
+menu = 北海
+title = 北海
+host = 111.12.18.1
+
++++ yulin
+
+menu = 玉林
+title = 玉林
+host = 111.12.24.22
+
++++ hechi
+
+menu = 河池
+title = 河池
+host = 111.12.31.230
+
++++ liuzhou
+
+menu = 柳州
+title = 柳州
+host = 111.12.48.2
+
++++ baise
+
+menu = 百色
+title = 百色
+host = 111.12.56.1
+
++++ fangchenggang
+
+menu = 防城港
+title = 防城港
+host = 111.12.68.1
+
++++ chongzuo
+
+menu = 崇左
+title = 崇左
+host = 111.12.77.129
+
++++ wuzhou
+
+menu = 梧州
+title = 梧州
+host = 111.12.96.1
+
++++ laibin
+
+menu = 来宾
+title = 来宾
+host = 111.12.112.33
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ nanning
+
+menu = 南宁
+title = 南宁
+host = 58.59.133.42
+
++++ chongzuo
+
+menu = 崇左
+title = 崇左
+host = 58.59.141.1
+
++++ guilin
+
+menu = 桂林
+title = 桂林
+host = 58.59.176.1
+
++++ yulin
+
+menu = 玉林
+title = 玉林
+host = 58.59.176.129
+
++++ guigang
+
+menu = 贵港
+title = 贵港
+host = 58.59.184.1
+
++++ hezhou
+
+menu = 贺州
+title = 贺州
+host = 58.59.188.14
+
++++ baise
+
+menu = 百色
+title = 百色
+host = 61.139.207.5
+
++++ wuzhou
+
+menu = 梧州
+title = 梧州
+host = 61.139.228.1
+
++++ beihai
+
+menu = 北海
+title = 北海
+host = 106.127.128.3
+
++++ liuzhou
+
+menu = 柳州
+title = 柳州
+host = 106.127.177.33
+
++++ laibin
+
+menu = 来宾
+title = 来宾
+host = 106.127.178.1
+
++++ hechi
+
+menu = 河池
+title = 河池
+host = 113.17.112.1
+
++++ qinzhou
+
+menu = 钦州
+title = 钦州
+host = 113.13.194.1
+
++++ fangchenggang
+
+menu = 防城港
+title = 防城港
+host = 113.14.240.1
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ nanning
+
+menu = 南宁
+title = 南宁
+host = 103.251.96.12
+
++++ guigang
+
+menu = 贵港
+title = 贵港
+host = 110.72.0.1
+
++++ hechi
+
+menu = 河池
+title = 河池
+host = 110.72.110.2
+
++++ chongzuo
+
+menu = 崇左
+title = 崇左
+host = 110.72.150.1
+
++++ fangchenggang
+
+menu = 防城港
+title = 防城港
+host = 110.73.0.1
+
++++ laibin
+
+menu = 来宾
+title = 来宾
+host = 110.73.128.1
+
++++ baise
+
+menu = 百色
+title = 百色
+host = 110.73.208.1
+
++++ qinzhou
+
+menu = 钦州
+title = 钦州
+host = 110.73.240.1
+
++++ beihai
+
+menu = 北海
+title = 北海
+host = 115.46.64.2
+
++++ hezhou
+
+menu = 贺州
+title = 贺州
+host = 115.46.128.1
+
++++ wuzhou
+
+menu = 梧州
+title = 梧州
+host = 121.31.64.21
+
++++ guilin
+
+menu = 桂林
+title = 桂林
+host = 121.31.112.65
+
++++ liuzhou
+
+menu = 柳州
+title = 柳州
+host = 121.31.204.9
+
++++ yulin
+
+menu = 玉林
+title = 玉林
+host = 171.38.0.89

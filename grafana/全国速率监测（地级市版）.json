@@ -1,0 +1,798 @@
+{
+  "annotations": {
+    "list": [
+      {
+        "builtIn": 1,
+        "datasource": {
+          "type": "grafana",
+          "uid": "-- Grafana --"
+        },
+        "enable": true,
+        "hide": true,
+        "iconColor": "rgba(0, 211, 255, 1)",
+        "name": "Annotations & Alerts",
+        "type": "dashboard"
+      }
+    ]
+  },
+  "editable": true,
+  "fiscalYearStartMonth": 0,
+  "graphTooltip": 1,
+  "id": 4,
+  "links": [],
+  "panels": [
+    {
+      "datasource": {
+        "type": "prometheus",
+        "uid": "cewfh4rg3pfy8d"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "fixedColor": "red",
+            "mode": "continuous-RdYlGr"
+          },
+          "fieldMinMax": false,
+          "mappings": [],
+          "min": 50,
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": 0
+              },
+              {
+                "color": "red",
+                "value": 80
+              }
+            ]
+          },
+          "unit": "none"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 12,
+        "x": 0,
+        "y": 0
+      },
+      "id": 5,
+      "options": {
+        "minVizHeight": 75,
+        "minVizWidth": 75,
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "showThresholdLabels": false,
+        "showThresholdMarkers": true,
+        "sizing": "auto",
+        "text": {
+          "titleSize": 20,
+          "valueSize": 50
+        }
+      },
+      "pluginVersion": "12.1.1",
+      "targets": [
+        {
+          "editorMode": "code",
+          "exemplar": false,
+          "expr": "count(idc_ping_monitor{})",
+          "format": "time_series",
+          "instant": false,
+          "interval": "",
+          "legendFormat": "监控城市",
+          "range": true,
+          "refId": "A"
+        },
+        {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "cewfh4rg3pfy8d"
+          },
+          "editorMode": "code",
+          "expr": "count(idc_ping_monitor{} == 0)",
+          "hide": false,
+          "instant": false,
+          "legendFormat": "无法连接城市",
+          "range": true,
+          "refId": "B"
+        }
+      ],
+      "title": "",
+      "type": "gauge"
+    },
+    {
+      "datasource": {
+        "uid": "cewfh4rg3pfy8d"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "thresholds"
+          },
+          "custom": {
+            "align": "left",
+            "cellOptions": {
+              "type": "auto"
+            },
+            "filterable": false,
+            "inspect": false,
+            "width": 150
+          },
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": 0
+              },
+              {
+                "color": "red",
+                "value": 80
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 6,
+        "x": 12,
+        "y": 0
+      },
+      "id": 6,
+      "options": {
+        "cellHeight": "sm",
+        "footer": {
+          "countRows": false,
+          "fields": "",
+          "reducer": [
+            "sum"
+          ],
+          "show": false
+        },
+        "showHeader": true,
+        "sortBy": [
+          {
+            "desc": true,
+            "displayName": "无法连接城市数量"
+          }
+        ]
+      },
+      "pluginVersion": "12.1.1",
+      "targets": [
+        {
+          "editorMode": "code",
+          "exemplar": false,
+          "expr": "count(idc_ping_monitor{} == 0) by (province)",
+          "format": "table",
+          "instant": true,
+          "interval": "",
+          "legendFormat": "{{instance}}-{{ip}}",
+          "range": false,
+          "refId": "A"
+        }
+      ],
+      "title": "",
+      "transformations": [
+        {
+          "id": "organize",
+          "options": {
+            "excludeByName": {
+              "Time": true,
+              "Value": false
+            },
+            "includeByName": {},
+            "indexByName": {},
+            "orderBy": [],
+            "orderByMode": "auto",
+            "renameByName": {
+              "Time": "",
+              "Value": "无法连接城市数量",
+              "instance": "无法连接城市",
+              "province": "省份"
+            }
+          }
+        }
+      ],
+      "type": "table"
+    },
+    {
+      "datasource": {
+        "uid": "cewfh4rg3pfy8d"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "thresholds"
+          },
+          "custom": {
+            "align": "auto",
+            "cellOptions": {
+              "type": "auto"
+            },
+            "inspect": false
+          },
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": 0
+              },
+              {
+                "color": "red",
+                "value": 80
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 6,
+        "x": 18,
+        "y": 0
+      },
+      "id": 7,
+      "options": {
+        "cellHeight": "sm",
+        "footer": {
+          "countRows": false,
+          "fields": "",
+          "reducer": [
+            "sum"
+          ],
+          "show": false
+        },
+        "showHeader": true,
+        "sortBy": []
+      },
+      "pluginVersion": "12.1.1",
+      "targets": [
+        {
+          "editorMode": "code",
+          "exemplar": false,
+          "expr": "count(idc_ping_monitor{province=~\"$province\",city=~\"$city\"} == 0) by (instance)",
+          "format": "table",
+          "instant": true,
+          "interval": "",
+          "legendFormat": "{{instance}}",
+          "range": false,
+          "refId": "A"
+        }
+      ],
+      "title": "",
+      "transformations": [
+        {
+          "id": "organize",
+          "options": {
+            "excludeByName": {
+              "Time": true,
+              "Value": true
+            },
+            "includeByName": {},
+            "indexByName": {},
+            "orderByMode": "auto",
+            "renameByName": {
+              "Time": "",
+              "instance": "无法连接城市"
+            }
+          }
+        }
+      ],
+      "type": "table"
+    },
+    {
+      "datasource": {
+        "uid": "prometheus"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "axisBorderShow": false,
+            "axisCenteredZero": false,
+            "axisColorMode": "text",
+            "axisLabel": "",
+            "axisPlacement": "auto",
+            "barAlignment": 0,
+            "barWidthFactor": 0.6,
+            "drawStyle": "line",
+            "fillOpacity": 0,
+            "gradientMode": "none",
+            "hideFrom": {
+              "legend": false,
+              "tooltip": false,
+              "viz": false
+            },
+            "insertNulls": false,
+            "lineInterpolation": "smooth",
+            "lineWidth": 1,
+            "pointSize": 5,
+            "scaleDistribution": {
+              "type": "linear"
+            },
+            "showPoints": "auto",
+            "spanNulls": false,
+            "stacking": {
+              "group": "A",
+              "mode": "none"
+            },
+            "thresholdsStyle": {
+              "mode": "off"
+            }
+          },
+          "fieldMinMax": false,
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": 0
+              },
+              {
+                "color": "red",
+                "value": 80
+              }
+            ]
+          },
+          "unit": "none"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 24,
+        "x": 0,
+        "y": 8
+      },
+      "id": 1,
+      "options": {
+        "legend": {
+          "calcs": [
+            "max",
+            "last"
+          ],
+          "displayMode": "table",
+          "placement": "right",
+          "showLegend": true,
+          "sortBy": "Last *",
+          "sortDesc": true
+        },
+        "tooltip": {
+          "hideZeros": false,
+          "mode": "multi",
+          "sort": "desc"
+        }
+      },
+      "pluginVersion": "12.1.1",
+      "targets": [
+        {
+          "editorMode": "code",
+          "exemplar": false,
+          "expr": "idc_ping_monitor{province=~\"$province\",isp='电信',city=~\"$city\"}",
+          "format": "time_series",
+          "hide": false,
+          "instant": false,
+          "interval": "",
+          "legendFormat": "{{instance}}-{{ip}}",
+          "range": true,
+          "refId": "A"
+        }
+      ],
+      "title": "电信延迟一览",
+      "type": "timeseries"
+    },
+    {
+      "datasource": {
+        "type": "prometheus",
+        "uid": "cewfh4rg3pfy8d"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "axisBorderShow": false,
+            "axisCenteredZero": false,
+            "axisColorMode": "text",
+            "axisLabel": "",
+            "axisPlacement": "auto",
+            "barAlignment": 0,
+            "barWidthFactor": 0.6,
+            "drawStyle": "line",
+            "fillOpacity": 0,
+            "gradientMode": "none",
+            "hideFrom": {
+              "legend": false,
+              "tooltip": false,
+              "viz": false
+            },
+            "insertNulls": false,
+            "lineInterpolation": "linear",
+            "lineWidth": 1,
+            "pointSize": 5,
+            "scaleDistribution": {
+              "type": "linear"
+            },
+            "showPoints": "auto",
+            "spanNulls": false,
+            "stacking": {
+              "group": "A",
+              "mode": "none"
+            },
+            "thresholdsStyle": {
+              "mode": "off"
+            }
+          },
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": 0
+              },
+              {
+                "color": "red",
+                "value": 80
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 24,
+        "x": 0,
+        "y": 16
+      },
+      "id": 2,
+      "options": {
+        "legend": {
+          "calcs": [
+            "max",
+            "last"
+          ],
+          "displayMode": "table",
+          "placement": "right",
+          "showLegend": true,
+          "sortBy": "Last *",
+          "sortDesc": true
+        },
+        "tooltip": {
+          "hideZeros": false,
+          "mode": "multi",
+          "sort": "desc"
+        }
+      },
+      "pluginVersion": "12.1.1",
+      "targets": [
+        {
+          "editorMode": "code",
+          "expr": "idc_ping_monitor{province=~\"$province\",isp='联通',city=~\"$city\"}",
+          "interval": "",
+          "legendFormat": "{{instance}}-{{ip}}",
+          "range": true,
+          "refId": "A"
+        }
+      ],
+      "title": "联通延迟一览",
+      "type": "timeseries"
+    },
+    {
+      "datasource": {
+        "type": "prometheus",
+        "uid": "cewfh4rg3pfy8d"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "axisBorderShow": false,
+            "axisCenteredZero": false,
+            "axisColorMode": "text",
+            "axisLabel": "",
+            "axisPlacement": "auto",
+            "barAlignment": 0,
+            "barWidthFactor": 0.6,
+            "drawStyle": "line",
+            "fillOpacity": 0,
+            "gradientMode": "none",
+            "hideFrom": {
+              "legend": false,
+              "tooltip": false,
+              "viz": false
+            },
+            "insertNulls": false,
+            "lineInterpolation": "linear",
+            "lineWidth": 1,
+            "pointSize": 5,
+            "scaleDistribution": {
+              "type": "linear"
+            },
+            "showPoints": "auto",
+            "spanNulls": false,
+            "stacking": {
+              "group": "A",
+              "mode": "none"
+            },
+            "thresholdsStyle": {
+              "mode": "off"
+            }
+          },
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": 0
+              },
+              {
+                "color": "red",
+                "value": 80
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 7,
+        "w": 24,
+        "x": 0,
+        "y": 24
+      },
+      "id": 3,
+      "options": {
+        "legend": {
+          "calcs": [
+            "max",
+            "last"
+          ],
+          "displayMode": "table",
+          "placement": "right",
+          "showLegend": true,
+          "sortBy": "Last *",
+          "sortDesc": true
+        },
+        "tooltip": {
+          "hideZeros": false,
+          "mode": "multi",
+          "sort": "desc"
+        }
+      },
+      "pluginVersion": "12.1.1",
+      "targets": [
+        {
+          "editorMode": "code",
+          "expr": "idc_ping_monitor{province=~\"$province\",isp='移动',city=~\"$city\"}",
+          "legendFormat": "{{instance}}-{{ip}}",
+          "range": true,
+          "refId": "A"
+        }
+      ],
+      "title": "移动延迟一览",
+      "type": "timeseries"
+    }
+  ],
+  "preload": false,
+  "schemaVersion": 41,
+  "tags": [],
+  "templating": {
+    "list": [
+      {
+        "allValue": ".*",
+        "current": {
+          "text": "河南",
+          "value": "河南"
+        },
+        "includeAll": true,
+        "label": "省份",
+        "name": "province",
+        "options": [
+          {
+            "selected": false,
+            "text": "安徽",
+            "value": "安徽"
+          },
+          {
+            "selected": false,
+            "text": "北京",
+            "value": "北京"
+          },
+          {
+            "selected": false,
+            "text": "重庆",
+            "value": "重庆"
+          },
+          {
+            "selected": false,
+            "text": "福建",
+            "value": "福建"
+          },
+          {
+            "selected": false,
+            "text": "甘肃",
+            "value": "甘肃"
+          },
+          {
+            "selected": false,
+            "text": "广东",
+            "value": "广东"
+          },
+          {
+            "selected": false,
+            "text": "广西",
+            "value": "广西"
+          },
+          {
+            "selected": false,
+            "text": "贵州",
+            "value": "贵州"
+          },
+          {
+            "selected": false,
+            "text": "海南",
+            "value": "海南"
+          },
+          {
+            "selected": false,
+            "text": "河北",
+            "value": "河北"
+          },
+          {
+            "selected": false,
+            "text": "黑龙江",
+            "value": "黑龙江"
+          },
+          {
+            "selected": true,
+            "text": "河南",
+            "value": "河南"
+          },
+          {
+            "selected": false,
+            "text": "湖北",
+            "value": "湖北"
+          },
+          {
+            "selected": false,
+            "text": "湖南",
+            "value": "湖南"
+          },
+          {
+            "selected": false,
+            "text": "江苏",
+            "value": "江苏"
+          },
+          {
+            "selected": false,
+            "text": "江西",
+            "value": "江西"
+          },
+          {
+            "selected": false,
+            "text": "吉林",
+            "value": "吉林"
+          },
+          {
+            "selected": false,
+            "text": "辽宁",
+            "value": "辽宁"
+          },
+          {
+            "selected": false,
+            "text": "内蒙古",
+            "value": "内蒙古"
+          },
+          {
+            "selected": false,
+            "text": "宁夏",
+            "value": "宁夏"
+          },
+          {
+            "selected": false,
+            "text": "青海",
+            "value": "青海"
+          },
+          {
+            "selected": false,
+            "text": "陕西",
+            "value": "陕西"
+          },
+          {
+            "selected": false,
+            "text": "山东",
+            "value": "山东"
+          },
+          {
+            "selected": false,
+            "text": "上海",
+            "value": "上海"
+          },
+          {
+            "selected": false,
+            "text": "山西",
+            "value": "山西"
+          },
+          {
+            "selected": false,
+            "text": "四川",
+            "value": "四川"
+          },
+          {
+            "selected": false,
+            "text": "天津",
+            "value": "天津"
+          },
+          {
+            "selected": false,
+            "text": "新疆",
+            "value": "新疆"
+          },
+          {
+            "selected": false,
+            "text": "西藏",
+            "value": "西藏"
+          },
+          {
+            "selected": false,
+            "text": "云南",
+            "value": "云南"
+          },
+          {
+            "selected": false,
+            "text": "浙江",
+            "value": "浙江"
+          }
+        ],
+        "query": "安徽, 北京, 重庆, 福建, 甘肃, 广东, 广西, 贵州, 海南, 河北, 黑龙江, 河南, 湖北, 湖南, 江苏, 江西, 吉林, 辽宁, 内蒙古, 宁夏, 青海, 陕西, 山东, 上海, 山西, 四川, 天津, 新疆, 西藏, 云南, 浙江",
+        "type": "custom"
+      },
+      {
+        "allValue": ".*",
+        "allowCustomValue": true,
+        "current": {
+          "text": "$__all",
+          "value": "$__all"
+        },
+        "includeAll": true,
+        "label": "城市",
+        "name": "city",
+        "options": [],
+        "query": "",
+        "type": "custom"
+      }
+    ]
+  },
+  "time": {
+    "from": "now-5m",
+    "to": "now"
+  },
+  "timepicker": {},
+  "timezone": "browser",
+  "title": "全国速率监测（地级市版）",
+  "uid": "de4359bf-0f4e-4bce-8d80-70d93925271a",
+  "version": 100
+}

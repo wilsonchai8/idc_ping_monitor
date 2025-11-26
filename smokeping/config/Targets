@@ -1,0 +1,41 @@
+*** Targets ***
+
+probe = FPing
+
+menu = Top
+title = Network Latency Grapher
+remark = Welcome to the SmokePing website of WORKS Company. \
+         Here you will learn all about the latency of our network.
+
+@include /opt/ips/anhui
+@include /opt/ips/beijing
+@include /opt/ips/chongqing
+@include /opt/ips/fujian
+@include /opt/ips/gansu
+@include /opt/ips/guangdong
+@include /opt/ips/guangxi
+@include /opt/ips/guizhou
+@include /opt/ips/hainan
+@include /opt/ips/hebei
+@include /opt/ips/heilongjiang
+@include /opt/ips/henan
+@include /opt/ips/hubei
+@include /opt/ips/hunan
+@include /opt/ips/jiangsu
+@include /opt/ips/jiangxi
+@include /opt/ips/jilin
+@include /opt/ips/liaoning
+@include /opt/ips/neimenggu
+@include /opt/ips/ningxia
+@include /opt/ips/qinghai
+@include /opt/ips/shaanxi
+@include /opt/ips/shandong
+@include /opt/ips/shanghai
+@include /opt/ips/shanxi
+@include /opt/ips/sichuan
+@include /opt/ips/tianjin
+@include /opt/ips/xinjiang
+@include /opt/ips/xizang
+@include /opt/ips/yunnan
+@include /opt/ips/zhejiang
+

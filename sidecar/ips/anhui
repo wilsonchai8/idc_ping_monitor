@@ -1,0 +1,307 @@
++ anhui
+
+menu = 安徽
+title = 安徽
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ luan
+
+menu = 六安
+title = 六安
+host = 36.56.0.14
+
++++ maanshan
+
+menu = 马鞍山
+title = 马鞍山
+host = 36.56.100.1
+
++++ chizhou
+
+menu = 池州
+title = 池州
+host = 36.56.152.1
+
++++ fuyang
+
+menu = 阜阳
+title = 阜阳
+host = 36.57.34.1
+
++++ huangshan
+
+menu = 黄山
+title = 黄山
+host = 36.57.72.1
+
++++ hefei
+
+menu = 合肥
+title = 合肥
+host = 36.57.134.5
+
++++ bozhou
+
+menu = 亳州
+title = 亳州
+host = 36.59.96.1
+
++++ chuzhou
+
+menu = 滁州
+title = 滁州
+host = 36.62.168.1
+
++++ anqing
+
+menu = 安庆
+title = 安庆
+host = 36.63.0.4
+
++++ wuhu
+
+menu = 芜湖
+title = 芜湖
+host = 36.63.136.1
+
++++ suzhou
+
+menu = 宿州
+title = 宿州
+host = 36.4.4.1
+
++++ tongling
+
+menu = 铜陵
+title = 铜陵
+host = 36.4.128.2
+
++++ bengbu
+
+menu = 蚌埠
+title = 蚌埠
+host = 36.6.92.1
+
++++ huaibei
+
+menu = 淮北
+title = 淮北
+host = 36.6.132.1
+
++++ xuancheng
+
+menu = 宣城
+title = 宣城
+host = 36.7.0.1
+
++++ huainan
+
+menu = 淮南
+title = 淮南
+host = 60.171.0.197
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ hefei
+
+menu = 合肥
+title = 合肥
+host = 36.134.84.9
+
++++ fuyang
+
+menu = 阜阳
+title = 阜阳
+host = 36.159.128.1
+
++++ chizhou
+
+menu = 池州
+title = 池州
+host = 36.161.70.24
+
++++ luan
+
+menu = 六安
+title = 六安
+host = 36.161.0.9
+
++++ bengbu
+
+menu = 蚌埠
+title = 蚌埠
+host = 36.161.16.1
+
++++ huainan
+
+menu = 淮南
+title = 淮南
+host = 36.161.42.2
+
++++ tongling
+
+menu = 铜陵
+title = 铜陵
+host = 36.161.48.2
+
++++ huangshan
+
+menu = 黄山
+title = 黄山
+host = 36.161.93.1
+
++++ huaibei
+
+menu = 淮北
+title = 淮北
+host = 36.161.128.4
+
++++ xuancheng
+
+menu = 宣城
+title = 宣城
+host = 36.161.137.5
+
++++ maanshan
+
+menu = 马鞍山
+title = 马鞍山
+host = 36.161.144.1
+
++++ suzhou
+
+menu = 宿州
+title = 宿州
+host = 36.161.184.1
+
++++ bozhou
+
+menu = 亳州
+title = 亳州
+host = 36.161.194.194
+
++++ wuhu
+
+menu = 芜湖
+title = 芜湖
+host = 111.38.160.5
+
++++ anqing
+
+menu = 安庆
+title = 安庆
+host = 36.161.247.6
+
++++ chuzhou
+
+menu = 滁州
+title = 滁州
+host = 111.39.97.14
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ hefei
+
+menu = 合肥
+title = 合肥
+host = 36.32.0.1
+
++++ bozhou
+
+menu = 亳州
+title = 亳州
+host = 36.32.64.1
+
++++ anqing
+
+menu = 安庆
+title = 安庆
+host = 36.32.72.1
+
++++ bengbu
+
+menu = 蚌埠
+title = 蚌埠
+host = 36.32.80.1
+
++++ suzhou
+
+menu = 宿州
+title = 宿州
+host = 36.32.98.2
+
++++ xuancheng
+
+menu = 宣城
+title = 宣城
+host = 36.32.140.1
+
++++ fuyang
+
+menu = 阜阳
+title = 阜阳
+host = 36.32.144.1
+
++++ maanshan
+
+menu = 马鞍山
+title = 马鞍山
+host = 36.32.160.39
+
++++ tongling
+
+menu = 铜陵
+title = 铜陵
+host = 36.32.170.1
+
++++ chizhou
+
+menu = 池州
+title = 池州
+host = 36.32.184.1
+
++++ huainan
+
+menu = 淮南
+title = 淮南
+host = 36.32.192.1
+
++++ luan
+
+menu = 六安
+title = 六安
+host = 36.32.220.1
+
++++ huangshan
+
+menu = 黄山
+title = 黄山
+host = 36.32.232.2
+
++++ chuzhou
+
+menu = 滁州
+title = 滁州
+host = 36.33.61.1
+
++++ huaibei
+
+menu = 淮北
+title = 淮北
+host = 36.33.96.1
+
++++ wuhu
+
+menu = 芜湖
+title = 芜湖
+host = 36.35.32.1

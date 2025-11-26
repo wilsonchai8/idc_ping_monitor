@@ -1,0 +1,73 @@
++ hainan
+
+menu = 海南
+title = 海南
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ sanya
+
+menu = 三亚
+title = 三亚
+host = 36.101.0.1
+
++++ haikou
+
+menu = 海口
+title = 海口
+host = 36.101.8.1
+
++++ danzhou
+
+menu = 儋州
+title = 儋州
+host = 59.49.232.169
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ haikou
+
+menu = 海口
+title = 海口
+host = 43.251.6.254
+
++++ danzhou
+
+menu = 儋州
+title = 儋州
+host = 60.13.73.33
+
++++ sanya
+
+menu = 三亚
+title = 三亚
+host = 113.58.176.1
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ haikou
+
+menu = 海口
+title = 海口
+host = 111.28.0.251
+
++++ sanya
+
+menu = 三亚
+title = 三亚
+host = 112.54.244.29
+
++++ danzhou
+
+menu = 儋州
+title = 儋州
+host = 183.254.76.3

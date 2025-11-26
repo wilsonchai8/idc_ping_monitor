@@ -1,0 +1,109 @@
++ ningxia
+
+menu = 宁夏
+title = 宁夏
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ zhongwei
+
+menu = 中卫
+title = 中卫
+host = 3.5.214.1
+
++++ yinchuan
+
+menu = 银川
+title = 银川
+host = 14.134.0.43
+
++++ shizuishan
+
+menu = 石嘴山
+title = 石嘴山
+host = 14.134.64.22
+
++++ guyuan
+
+menu = 固原
+title = 固原
+host = 14.134.96.1
+
++++ wuzhong
+
+menu = 吴忠
+title = 吴忠
+host = 14.134.152.1
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ yinchuan
+
+menu = 银川
+title = 银川
+host = 42.63.0.1
+
++++ guyuan
+
+menu = 固原
+title = 固原
+host = 42.63.15.17
+
++++ wuzhong
+
+menu = 吴忠
+title = 吴忠
+host = 42.63.16.1
+
++++ shizuishan
+
+menu = 石嘴山
+title = 石嘴山
+host = 42.63.17.1
+
++++ zhongwei
+
+menu = 中卫
+title = 中卫
+host = 42.63.84.1
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ zhongwei
+
+menu = 中卫
+title = 中卫
+host = 52.82.0.68
+
++++ yinchuan
+
+menu = 银川
+title = 银川
+host = 111.49.26.1
+
++++ shizuishan
+
+menu = 石嘴山
+title = 石嘴山
+host = 111.49.142.4
+
++++ wuzhong
+
+menu = 吴忠
+title = 吴忠
+host = 111.49.144.222
+
++++ guyuan
+
+menu = 固原
+title = 固原
+host = 111.49.180.1

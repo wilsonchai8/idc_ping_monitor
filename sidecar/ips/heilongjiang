@@ -1,0 +1,253 @@
++ heilongjiang
+
+menu = 黑龙江
+title = 黑龙江
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ hegang
+
+menu = 鹤岗
+title = 鹤岗
+host = 1.56.0.2
+
++++ mudanjiang
+
+menu = 牡丹江
+title = 牡丹江
+host = 1.56.131.5
+
++++ suihua
+
+menu = 绥化
+title = 绥化
+host = 1.57.0.5
+
++++ qiqihaer
+
+menu = 齐齐哈尔
+title = 齐齐哈尔
+host = 1.57.72.1
+
++++ shuangyashan
+
+menu = 双鸭山
+title = 双鸭山
+host = 1.57.188.1
+
++++ jixi
+
+menu = 鸡西
+title = 鸡西
+host = 1.57.192.1
+
++++ haerbin
+
+menu = 哈尔滨
+title = 哈尔滨
+host = 1.58.0.66
+
++++ daqing
+
+menu = 大庆
+title = 大庆
+host = 1.59.1.105
+
++++ jiamusi
+
+menu = 佳木斯
+title = 佳木斯
+host = 1.59.128.1
+
++++ heihe
+
+menu = 黑河
+title = 黑河
+host = 1.60.0.1
+
++++ qitaihe
+
+menu = 七台河
+title = 七台河
+host = 1.60.64.16
+
++++ yichun
+
+menu = 伊春
+title = 伊春
+host = 1.60.134.12
+
++++ daxinganling
+
+menu = 大兴安岭
+title = 大兴安岭
+host = 1.63.64.5
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ haerbin
+
+menu = 哈尔滨
+title = 哈尔滨
+host = 36.132.135.66
+
++++ daqing
+
+menu = 大庆
+title = 大庆
+host = 111.40.62.1
+
++++ qiqihaer
+
+menu = 齐齐哈尔
+title = 齐齐哈尔
+host = 111.40.64.1
+
++++ mudanjiang
+
+menu = 牡丹江
+title = 牡丹江
+host = 111.40.72.2
+
++++ jiamusi
+
+menu = 佳木斯
+title = 佳木斯
+host = 111.40.82.1
+
++++ suihua
+
+menu = 绥化
+title = 绥化
+host = 111.40.90.1
+
++++ yichun
+
+menu = 伊春
+title = 伊春
+host = 111.40.94.1
+
++++ jixi
+
+menu = 鸡西
+title = 鸡西
+host = 111.40.98.4
+
++++ daxinganling
+
+menu = 大兴安岭
+title = 大兴安岭
+host = 111.40.103.1
+
++++ qitaihe
+
+menu = 七台河
+title = 七台河
+host = 111.40.106.17
+
++++ heihe
+
+menu = 黑河
+title = 黑河
+host = 111.40.110.1
+
++++ hegang
+
+menu = 鹤岗
+title = 鹤岗
+host = 111.40.114.1
+
++++ shuangyashan
+
+menu = 双鸭山
+title = 双鸭山
+host = 111.40.118.4
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ haerbin
+
+menu = 哈尔滨
+title = 哈尔滨
+host = 42.100.20.1
+
++++ daqing
+
+menu = 大庆
+title = 大庆
+host = 42.100.96.195
+
++++ jixi
+
+menu = 鸡西
+title = 鸡西
+host = 42.101.144.1
+
++++ shuangyashan
+
+menu = 双鸭山
+title = 双鸭山
+host = 42.101.196.201
+
++++ qiqihaer
+
+menu = 齐齐哈尔
+title = 齐齐哈尔
+host = 42.101.248.8
+
++++ mudanjiang
+
+menu = 牡丹江
+title = 牡丹江
+host = 42.102.52.1
+
++++ jiamusi
+
+menu = 佳木斯
+title = 佳木斯
+host = 42.102.64.1
+
++++ yichun
+
+menu = 伊春
+title = 伊春
+host = 42.103.68.1
+
++++ suihua
+
+menu = 绥化
+title = 绥化
+host = 42.184.176.6
+
++++ hegang
+
+menu = 鹤岗
+title = 鹤岗
+host = 112.98.177.1
+
++++ qitaihe
+
+menu = 七台河
+title = 七台河
+host = 112.98.216.1
+
++++ heihe
+
+menu = 黑河
+title = 黑河
+host = 112.98.228.1
+
++++ daxinganling
+
+menu = 大兴安岭
+title = 大兴安岭
+host = 112.98.244.3

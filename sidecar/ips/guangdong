@@ -1,0 +1,397 @@
++ guangdong
+
+menu = 广东
+title = 广东
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ shenzhen
+
+menu = 深圳
+title = 深圳
+host = 14.17.3.140
+
++++ dongguan
+
+menu = 东莞
+title = 东莞
+host = 14.17.64.1
+
++++ foshan
+
+menu = 佛山
+title = 佛山
+host = 14.17.96.2
+
++++ zhongshan
+
+menu = 中山
+title = 中山
+host = 14.17.116.22
+
++++ huizhou
+
+menu = 惠州
+title = 惠州
+host = 14.17.128.13
+
++++ yunfu
+
+menu = 云浮
+title = 云浮
+host = 14.18.8.1
+
++++ zhanjiang
+
+menu = 湛江
+title = 湛江
+host = 14.18.9.6
+
++++ guangzhou
+
+menu = 广州
+title = 广州
+host = 14.18.10.2
+
++++ zhaoqing
+
+menu = 肇庆
+title = 肇庆
+host = 14.18.128.20
+
++++ chaozhou
+
+menu = 潮州
+title = 潮州
+host = 14.18.136.1
+
++++ maoming
+
+menu = 茂名
+title = 茂名
+host = 14.18.140.48
+
++++ shanwei
+
+menu = 汕尾
+title = 汕尾
+host = 14.18.208.142
+
++++ meizhou
+
+menu = 梅州
+title = 梅州
+host = 14.21.0.1
+
++++ shantou
+
+menu = 汕头
+title = 汕头
+host = 14.21.25.4
+
++++ yangjiang
+
+menu = 阳江
+title = 阳江
+host = 14.21.29.252
+
++++ zhuhai
+
+menu = 珠海
+title = 珠海
+host = 14.21.32.1
+
++++ heyuan
+
+menu = 河源
+title = 河源
+host = 14.21.36.4
+
++++ jiangmen
+
+menu = 江门
+title = 江门
+host = 14.21.80.1
+
++++ qingyuan
+
+menu = 清远
+title = 清远
+host = 14.21.88.1
+
++++ shaoguan
+
+menu = 韶关
+title = 韶关
+host = 14.144.40.1
+
++++ jieyang
+
+menu = 揭阳
+title = 揭阳
+host = 14.215.230.1
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ foshan
+
+menu = 佛山
+title = 佛山
+host = 27.36.0.1
+
++++ dongguan
+
+menu = 东莞
+title = 东莞
+host = 27.37.4.1
+
++++ shenzhen
+
+menu = 深圳
+title = 深圳
+host = 27.38.0.1
+
++++ guangzhou
+
+menu = 广州
+title = 广州
+host = 27.39.2.1
+
++++ shaoguan
+
+menu = 韶关
+title = 韶关
+host = 27.39.108.2
+
++++ huizhou
+
+menu = 惠州
+title = 惠州
+host = 27.39.113.1
+
++++ meizhou
+
+menu = 梅州
+title = 梅州
+host = 27.39.121.1
+
++++ shantou
+
+menu = 汕头
+title = 汕头
+host = 27.39.128.1
+
++++ zhaoqing
+
+menu = 肇庆
+title = 肇庆
+host = 27.39.160.1
+
++++ zhanjiang
+
+menu = 湛江
+title = 湛江
+host = 27.39.168.3
+
++++ heyuan
+
+menu = 河源
+title = 河源
+host = 27.39.184.1
+
++++ qingyuan
+
+menu = 清远
+title = 清远
+host = 27.39.192.1
+
++++ yunfu
+
+menu = 云浮
+title = 云浮
+host = 27.39.202.3
+
++++ chaozhou
+
+menu = 潮州
+title = 潮州
+host = 27.39.208.1
+
++++ shanwei
+
+menu = 汕尾
+title = 汕尾
+host = 27.39.224.1
+
++++ yangjiang
+
+menu = 阳江
+title = 阳江
+host = 27.39.233.1
+
++++ jieyang
+
+menu = 揭阳
+title = 揭阳
+host = 27.39.240.1
+
++++ maoming
+
+menu = 茂名
+title = 茂名
+host = 27.39.248.1
+
++++ zhuhai
+
+menu = 珠海
+title = 珠海
+host = 27.40.32.5
+
++++ zhongshan
+
+menu = 中山
+title = 中山
+host = 27.40.34.2
+
++++ jiangmen
+
+menu = 江门
+title = 江门
+host = 27.40.40.5
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ guangzhou
+
+menu = 广州
+title = 广州
+host = 36.133.0.8
+
++++ shenzhen
+
+menu = 深圳
+title = 深圳
+host = 43.230.222.11
+
++++ foshan
+
+menu = 佛山
+title = 佛山
+host = 120.197.205.1
+
++++ zhuhai
+
+menu = 珠海
+title = 珠海
+host = 120.196.216.1
+
++++ zhongshan
+
+menu = 中山
+title = 中山
+host = 120.196.219.1
+
++++ huizhou
+
+menu = 惠州
+title = 惠州
+host = 120.196.220.9
+
++++ yunfu
+
+menu = 云浮
+title = 云浮
+host = 120.196.228.1
+
++++ zhaoqing
+
+menu = 肇庆
+title = 肇庆
+host = 120.196.232.1
+
++++ shaoguan
+
+menu = 韶关
+title = 韶关
+host = 120.196.234.1
+
++++ meizhou
+
+menu = 梅州
+title = 梅州
+host = 120.196.235.2
+
++++ shanwei
+
+menu = 汕尾
+title = 汕尾
+host = 120.196.242.17
+
++++ dongguan
+
+menu = 东莞
+title = 东莞
+host = 120.196.242.121
+
++++ zhanjiang
+
+menu = 湛江
+title = 湛江
+host = 120.196.243.2
+
++++ yangjiang
+
+menu = 阳江
+title = 阳江
+host = 120.196.243.93
+
++++ jieyang
+
+menu = 揭阳
+title = 揭阳
+host = 120.196.245.3
+
++++ chaozhou
+
+menu = 潮州
+title = 潮州
+host = 120.196.246.1
+
++++ shantou
+
+menu = 汕头
+title = 汕头
+host = 120.197.246.193
+
++++ jiangmen
+
+menu = 江门
+title = 江门
+host = 120.198.56.1
+
++++ maoming
+
+menu = 茂名
+title = 茂名
+host = 120.198.84.1
+
++++ heyuan
+
+menu = 河源
+title = 河源
+host = 120.198.89.21
+
++++ qingyuan
+
+menu = 清远
+title = 清远
+host = 120.198.149.1

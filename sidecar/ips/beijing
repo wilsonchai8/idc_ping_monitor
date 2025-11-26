@@ -1,0 +1,37 @@
++ beijing
+
+menu = 北京
+title = 北京
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ beijing
+
+menu = 北京
+title = 北京
+host = 1.202.0.1
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ beijing
+
+menu = 北京
+title = 北京
+host = 27.106.207.137
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ beijing
+
+menu = 北京
+title = 北京
+host = 27.0.164.2

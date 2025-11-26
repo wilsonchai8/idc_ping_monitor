@@ -1,0 +1,37 @@
++ tianjin
+
+menu = 天津
+title = 天津
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ tianjin
+
+menu = 天津
+title = 天津
+host = 27.0.132.1
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ tianjin
+
+menu = 天津
+title = 天津
+host = 36.106.2.1
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ tianjin
+
+menu = 天津
+title = 天津
+host = 36.134.64.79

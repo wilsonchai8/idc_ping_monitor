@@ -1,0 +1,145 @@
++ xizang
+
+menu = 西藏
+title = 西藏
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ lasa
+
+menu = 拉萨
+title = 拉萨
+host = 27.98.224.6
+
++++ changdou
+
+menu = 昌都
+title = 昌都
+host = 27.98.232.8
+
++++ shannan
+
+menu = 山南
+title = 山南
+host = 27.98.232.65
+
++++ ali
+
+menu = 阿里
+title = 阿里
+host = 27.98.232.152
+
++++ naqu
+
+menu = 那曲
+title = 那曲
+host = 27.98.233.61
+
++++ linzhi
+
+menu = 林芝
+title = 林芝
+host = 27.98.234.153
+
++++ rikaze
+
+menu = 日喀则
+title = 日喀则
+host = 27.98.254.38
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ lasa
+
+menu = 拉萨
+title = 拉萨
+host = 101.248.66.3
+
++++ rikaze
+
+menu = 日喀则
+title = 日喀则
+host = 101.249.79.1
+
++++ shannan
+
+menu = 山南
+title = 山南
+host = 101.249.80.4
+
++++ linzhi
+
+menu = 林芝
+title = 林芝
+host = 101.249.96.4
+
++++ changdou
+
+menu = 昌都
+title = 昌都
+host = 101.249.112.6
+
++++ ali
+
+menu = 阿里
+title = 阿里
+host = 101.249.159.1
+
++++ naqu
+
+menu = 那曲
+title = 那曲
+host = 124.31.24.1
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ lasa
+
+menu = 拉萨
+title = 拉萨
+host = 111.11.192.149
+
++++ ali
+
+menu = 阿里
+title = 阿里
+host = 111.11.216.8
+
++++ naqu
+
+menu = 那曲
+title = 那曲
+host = 111.11.217.3
+
++++ linzhi
+
+menu = 林芝
+title = 林芝
+host = 111.11.220.1
+
++++ shannan
+
+menu = 山南
+title = 山南
+host = 111.11.244.1
+
++++ changdou
+
+menu = 昌都
+title = 昌都
+host = 111.11.250.1
+
++++ rikaze
+
+menu = 日喀则
+title = 日喀则
+host = 117.136.156.134

@@ -1,0 +1,265 @@
++ xinjiang
+
+menu = 新疆
+title = 新疆
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ hetian
+
+menu = 和田
+title = 和田
+host = 36.96.0.1
+
++++ kezileisu
+
+menu = 克孜勒苏
+title = 克孜勒苏
+host = 36.96.6.127
+
++++ tulufan
+
+menu = 吐鲁番
+title = 吐鲁番
+host = 36.96.38.21
+
++++ tacheng
+
+menu = 塔城
+title = 塔城
+host = 36.96.40.37
+
++++ boertala
+
+menu = 博尔塔拉
+title = 博尔塔拉
+host = 36.96.44.1
+
++++ akesu
+
+menu = 阿克苏
+title = 阿克苏
+host = 36.96.96.6
+
++++ hami
+
+menu = 哈密
+title = 哈密
+host = 36.96.126.1
+
++++ bayinguoleng
+
+menu = 巴音郭楞
+title = 巴音郭楞
+host = 36.96.148.1
+
++++ kashi
+
+menu = 喀什
+title = 喀什
+host = 36.96.212.10
+
++++ changji
+
+menu = 昌吉
+title = 昌吉
+host = 36.96.228.1
+
++++ aleitai
+
+menu = 阿勒泰
+title = 阿勒泰
+host = 36.105.134.1
+
++++ wulumuqi
+
+menu = 乌鲁木齐
+title = 乌鲁木齐
+host = 36.105.208.3
+
++++ yili
+
+menu = 伊犁
+title = 伊犁
+host = 36.107.244.1
+
++++ kelamayi
+
+menu = 克拉玛依
+title = 克拉玛依
+host = 36.108.180.34
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ kezileisu
+
+menu = 克孜勒苏
+title = 克孜勒苏
+host = 36.182.36.1
+
++++ aleitai
+
+menu = 阿勒泰
+title = 阿勒泰
+host = 36.183.8.5
+
++++ hetian
+
+menu = 和田
+title = 和田
+host = 117.145.22.1
+
++++ akesu
+
+menu = 阿克苏
+title = 阿克苏
+host = 36.184.104.5
+
++++ tacheng
+
+menu = 塔城
+title = 塔城
+host = 36.184.162.3
+
++++ wulumuqi
+
+menu = 乌鲁木齐
+title = 乌鲁木齐
+host = 36.184.214.1
+
++++ kelamayi
+
+menu = 克拉玛依
+title = 克拉玛依
+host = 36.187.96.1
+
++++ kashi
+
+menu = 喀什
+title = 喀什
+host = 36.189.8.3
+
++++ tulufan
+
+menu = 吐鲁番
+title = 吐鲁番
+host = 36.189.24.1
+
++++ yili
+
+menu = 伊犁
+title = 伊犁
+host = 117.145.0.5
+
++++ boertala
+
+menu = 博尔塔拉
+title = 博尔塔拉
+host = 117.145.12.133
+
++++ bayinguoleng
+
+menu = 巴音郭楞
+title = 巴音郭楞
+host = 117.145.116.1
+
++++ hami
+
+menu = 哈密
+title = 哈密
+host = 117.145.146.1
+
++++ changji
+
+menu = 昌吉
+title = 昌吉
+host = 117.146.28.1
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ wulumuqi
+
+menu = 乌鲁木齐
+title = 乌鲁木齐
+host = 60.13.128.2
+
++++ hami
+
+menu = 哈密
+title = 哈密
+host = 60.13.140.1
+
++++ tulufan
+
+menu = 吐鲁番
+title = 吐鲁番
+host = 60.13.148.1
+
++++ changji
+
+menu = 昌吉
+title = 昌吉
+host = 60.13.150.81
+
++++ kashi
+
+menu = 喀什
+title = 喀什
+host = 60.13.192.9
+
++++ bayinguoleng
+
+menu = 巴音郭楞
+title = 巴音郭楞
+host = 60.13.196.10
+
++++ kezileisu
+
+menu = 克孜勒苏
+title = 克孜勒苏
+host = 60.13.209.1
+
++++ hetian
+
+menu = 和田
+title = 和田
+host = 60.13.212.33
+
++++ akesu
+
+menu = 阿克苏
+title = 阿克苏
+host = 60.13.216.162
+
++++ kelamayi
+
+menu = 克拉玛依
+title = 克拉玛依
+host = 60.13.225.11
+
++++ boertala
+
+menu = 博尔塔拉
+title = 博尔塔拉
+host = 60.13.226.1
+
++++ yili
+
+menu = 伊犁
+title = 伊犁
+host = 60.13.231.1
+
++++ tacheng
+
+menu = 塔城
+title = 塔城
+host = 60.13.251.3

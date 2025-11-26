@@ -1,0 +1,37 @@
++ shanghai
+
+menu = 上海
+title = 上海
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ shanghai
+
+menu = 上海
+title = 上海
+host = 27.109.125.18
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ shanghai
+
+menu = 上海
+title = 上海
+host = 27.115.0.1
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ shanghai
+
+menu = 上海
+title = 上海
+host = 36.133.72.114

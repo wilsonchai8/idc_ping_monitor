@@ -1,0 +1,271 @@
++ gansu
+
+menu = 甘肃
+title = 甘肃
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ lanzhou
+
+menu = 兰州
+title = 兰州
+host = 36.134.72.10
+
++++ jiuquan
+
+menu = 酒泉
+title = 酒泉
+host = 111.11.156.41
+
++++ wuwei
+
+menu = 武威
+title = 武威
+host = 111.11.159.36
+
++++ zhangye
+
+menu = 张掖
+title = 张掖
+host = 111.11.162.9
+
++++ baiyin
+
+menu = 白银
+title = 白银
+host = 111.11.163.1
+
++++ tianshui
+
+menu = 天水
+title = 天水
+host = 111.11.165.1
+
++++ dingxi
+
+menu = 定西
+title = 定西
+host = 111.11.169.1
+
++++ qingyang
+
+menu = 庆阳
+title = 庆阳
+host = 111.11.173.1
+
++++ gannan
+
+menu = 甘南
+title = 甘南
+host = 111.11.178.3
+
++++ jiayuguan
+
+menu = 嘉峪关
+title = 嘉峪关
+host = 111.11.179.81
+
++++ jinchang
+
+menu = 金昌
+title = 金昌
+host = 111.11.133.1
+
++++ pingliang
+
+menu = 平凉
+title = 平凉
+host = 111.11.138.1
+
++++ longnan
+
+menu = 陇南
+title = 陇南
+host = 111.11.141.1
+
++++ linxia
+
+menu = 临夏
+title = 临夏
+host = 111.11.142.1
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ linxia
+
+menu = 临夏
+title = 临夏
+host = 27.224.54.1
+
++++ wuwei
+
+menu = 武威
+title = 武威
+host = 27.224.124.4
+
++++ lanzhou
+
+menu = 兰州
+title = 兰州
+host = 27.224.138.1
+
++++ dingxi
+
+menu = 定西
+title = 定西
+host = 27.224.224.1
+
++++ pingliang
+
+menu = 平凉
+title = 平凉
+host = 27.224.240.2
+
++++ jiuquan
+
+menu = 酒泉
+title = 酒泉
+host = 27.224.252.1
+
++++ baiyin
+
+menu = 白银
+title = 白银
+host = 27.225.48.3
+
++++ longnan
+
+menu = 陇南
+title = 陇南
+host = 27.225.56.2
+
++++ tianshui
+
+menu = 天水
+title = 天水
+host = 27.226.40.2
+
++++ zhangye
+
+menu = 张掖
+title = 张掖
+host = 27.226.160.1
+
++++ gannan
+
+menu = 甘南
+title = 甘南
+host = 27.227.64.2
+
++++ qingyang
+
+menu = 庆阳
+title = 庆阳
+host = 42.89.64.2
+
++++ jiayuguan
+
+menu = 嘉峪关
+title = 嘉峪关
+host = 42.93.72.2
+
++++ jinchang
+
+menu = 金昌
+title = 金昌
+host = 42.94.80.1
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ lanzhou
+
+menu = 兰州
+title = 兰州
+host = 43.243.4.4
+
++++ jiuquan
+
+menu = 酒泉
+title = 酒泉
+host = 60.13.17.13
+
++++ jiayuguan
+
+menu = 嘉峪关
+title = 嘉峪关
+host = 60.13.18.1
+
++++ zhangye
+
+menu = 张掖
+title = 张掖
+host = 60.13.19.45
+
++++ jinchang
+
+menu = 金昌
+title = 金昌
+host = 60.13.20.17
+
++++ wuwei
+
+menu = 武威
+title = 武威
+host = 60.13.21.2
+
++++ tianshui
+
+menu = 天水
+title = 天水
+host = 60.13.22.9
+
++++ pingliang
+
+menu = 平凉
+title = 平凉
+host = 60.13.23.1
+
++++ qingyang
+
+menu = 庆阳
+title = 庆阳
+host = 60.13.24.5
+
++++ baiyin
+
+menu = 白银
+title = 白银
+host = 60.13.25.21
+
++++ dingxi
+
+menu = 定西
+title = 定西
+host = 60.13.26.41
+
++++ gannan
+
+menu = 甘南
+title = 甘南
+host = 60.13.27.2
+
++++ longnan
+
+menu = 陇南
+title = 陇南
+host = 60.13.28.1
+
++++ linxia
+
+menu = 临夏
+title = 临夏
+host = 60.13.29.30

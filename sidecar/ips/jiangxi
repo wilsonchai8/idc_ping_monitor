@@ -1,0 +1,217 @@
++ jiangxi
+
+menu = 江西
+title = 江西
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ nanchang
+
+menu = 南昌
+title = 南昌
+host = 36.134.80.9
+
++++ shangrao
+
+menu = 上饶
+title = 上饶
+host = 39.158.54.1
+
++++ fuzhou
+
+menu = 抚州
+title = 抚州
+host = 39.158.103.4
+
++++ jian
+
+menu = 吉安
+title = 吉安
+host = 39.158.139.3
+
++++ yichun
+
+menu = 宜春
+title = 宜春
+host = 39.160.20.100
+
++++ yingtan
+
+menu = 鹰潭
+title = 鹰潭
+host = 39.160.160.2
+
++++ jiujiang
+
+menu = 九江
+title = 九江
+host = 39.168.129.76
+
++++ xinyu
+
+menu = 新余
+title = 新余
+host = 39.176.144.5
+
++++ pingxiang
+
+menu = 萍乡
+title = 萍乡
+host = 39.176.152.1
+
++++ ganzhou
+
+menu = 赣州
+title = 赣州
+host = 39.177.160.1
+
++++ jingdezhen
+
+menu = 景德镇
+title = 景德镇
+host = 112.54.126.9
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ nanchang
+
+menu = 南昌
+title = 南昌
+host = 43.224.24.1
+
++++ jingdezhen
+
+menu = 景德镇
+title = 景德镇
+host = 58.17.48.4
+
++++ pingxiang
+
+menu = 萍乡
+title = 萍乡
+host = 58.17.56.1
+
++++ xinyu
+
+menu = 新余
+title = 新余
+host = 58.17.64.1
+
++++ yichun
+
+menu = 宜春
+title = 宜春
+host = 58.17.70.1
+
++++ jian
+
+menu = 吉安
+title = 吉安
+host = 58.17.80.2
+
++++ yingtan
+
+menu = 鹰潭
+title = 鹰潭
+host = 58.17.88.3
+
++++ fuzhou
+
+menu = 抚州
+title = 抚州
+host = 58.17.96.6
+
++++ shangrao
+
+menu = 上饶
+title = 上饶
+host = 58.17.104.8
+
++++ ganzhou
+
+menu = 赣州
+title = 赣州
+host = 58.17.114.201
+
++++ jiujiang
+
+menu = 九江
+title = 九江
+host = 58.17.120.1
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ nanchang
+
+menu = 南昌
+title = 南昌
+host = 59.52.4.1
+
++++ jiujiang
+
+menu = 九江
+title = 九江
+host = 59.53.86.169
+
++++ fuzhou
+
+menu = 抚州
+title = 抚州
+host = 59.53.98.1
+
++++ shangrao
+
+menu = 上饶
+title = 上饶
+host = 59.54.128.1
+
++++ ganzhou
+
+menu = 赣州
+title = 赣州
+host = 59.55.0.1
+
++++ jian
+
+menu = 吉安
+title = 吉安
+host = 59.55.160.1
+
++++ pingxiang
+
+menu = 萍乡
+title = 萍乡
+host = 59.62.0.1
+
++++ yingtan
+
+menu = 鹰潭
+title = 鹰潭
+host = 59.62.80.1
+
++++ yichun
+
+menu = 宜春
+title = 宜春
+host = 59.62.161.1
+
++++ jingdezhen
+
+menu = 景德镇
+title = 景德镇
+host = 59.63.0.2
+
++++ xinyu
+
+menu = 新余
+title = 新余
+host = 59.63.96.1

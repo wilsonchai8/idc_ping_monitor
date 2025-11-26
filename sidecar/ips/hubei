@@ -1,0 +1,253 @@
++ hubei
+
+menu = 湖北
+title = 湖北
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ yichang
+
+menu = 宜昌
+title = 宜昌
+host = 27.21.0.1
+
++++ xiangyang
+
+menu = 襄阳
+title = 襄阳
+host = 27.22.0.10
+
++++ xiaogan
+
+menu = 孝感
+title = 孝感
+host = 27.23.4.1
+
++++ huanggang
+
+menu = 黄冈
+title = 黄冈
+host = 27.23.128.2
+
++++ huangshi
+
+menu = 黄石
+title = 黄石
+host = 27.24.0.1
+
++++ xianning
+
+menu = 咸宁
+title = 咸宁
+host = 27.24.128.1
+
++++ enshi
+
+menu = 恩施
+title = 恩施
+host = 27.24.228.1
+
++++ jingmen
+
+menu = 荆门
+title = 荆门
+host = 27.25.0.1
+
++++ shiyan
+
+menu = 十堰
+title = 十堰
+host = 27.25.128.5
+
++++ ezhou
+
+menu = 鄂州
+title = 鄂州
+host = 27.25.192.1
+
++++ jingzhou
+
+menu = 荆州
+title = 荆州
+host = 27.26.16.1
+
++++ suizhou
+
+menu = 随州
+title = 随州
+host = 27.28.128.1
+
++++ wuhan
+
+menu = 武汉
+title = 武汉
+host = 27.31.241.113
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ wuhan
+
+menu = 武汉
+title = 武汉
+host = 36.134.78.9
+
++++ yichang
+
+menu = 宜昌
+title = 宜昌
+host = 111.4.38.1
+
++++ enshi
+
+menu = 恩施
+title = 恩施
+host = 111.4.46.19
+
++++ jingzhou
+
+menu = 荆州
+title = 荆州
+host = 111.4.56.59
+
++++ huangshi
+
+menu = 黄石
+title = 黄石
+host = 111.4.64.1
+
++++ huanggang
+
+menu = 黄冈
+title = 黄冈
+host = 111.4.68.13
+
++++ ezhou
+
+menu = 鄂州
+title = 鄂州
+host = 111.4.78.1
+
++++ xianning
+
+menu = 咸宁
+title = 咸宁
+host = 111.4.80.1
+
++++ xiaogan
+
+menu = 孝感
+title = 孝感
+host = 111.46.160.1
+
++++ xiangyang
+
+menu = 襄阳
+title = 襄阳
+host = 111.46.176.2
+
++++ shiyan
+
+menu = 十堰
+title = 十堰
+host = 111.46.232.1
+
++++ jingmen
+
+menu = 荆门
+title = 荆门
+host = 111.47.84.1
+
++++ suizhou
+
+menu = 随州
+title = 随州
+host = 111.47.96.1
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ wuhan
+
+menu = 武汉
+title = 武汉
+host = 58.19.8.1
+
++++ xiaogan
+
+menu = 孝感
+title = 孝感
+host = 58.19.124.1
+
++++ yichang
+
+menu = 宜昌
+title = 宜昌
+host = 58.19.144.2
+
++++ huangshi
+
+menu = 黄石
+title = 黄石
+host = 58.19.148.2
+
++++ jingzhou
+
+menu = 荆州
+title = 荆州
+host = 58.19.152.3
+
++++ jingmen
+
+menu = 荆门
+title = 荆门
+host = 58.19.160.15
+
++++ suizhou
+
+menu = 随州
+title = 随州
+host = 58.19.170.1
+
++++ enshi
+
+menu = 恩施
+title = 恩施
+host = 58.19.172.1
+
++++ xiangyang
+
+menu = 襄阳
+title = 襄阳
+host = 58.19.180.3
+
++++ shiyan
+
+menu = 十堰
+title = 十堰
+host = 58.19.196.42
+
++++ ezhou
+
+menu = 鄂州
+title = 鄂州
+host = 58.19.204.1
+
++++ huanggang
+
+menu = 黄冈
+title = 黄冈
+host = 58.19.208.5
+
++++ xianning
+
+menu = 咸宁
+title = 咸宁
+host = 58.19.221.129

@@ -1,0 +1,307 @@
++ shandong
+
+menu = 山东
+title = 山东
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ weifang
+
+menu = 潍坊
+title = 潍坊
+host = 27.192.0.224
+
++++ qingdao
+
+menu = 青岛
+title = 青岛
+host = 27.193.4.1
+
++++ yantai
+
+menu = 烟台
+title = 烟台
+host = 27.194.0.93
+
++++ zibo
+
+menu = 淄博
+title = 淄博
+host = 27.195.0.70
+
++++ liaocheng
+
+menu = 聊城
+title = 聊城
+host = 27.196.0.20
+
++++ linyi
+
+menu = 临沂
+title = 临沂
+host = 27.197.0.8
+
++++ jining
+
+menu = 济宁
+title = 济宁
+host = 27.198.0.118
+
++++ taian
+
+menu = 泰安
+title = 泰安
+host = 27.200.0.114
+
++++ dongying
+
+menu = 东营
+title = 东营
+host = 27.202.0.24
+
++++ weihai
+
+menu = 威海
+title = 威海
+host = 27.203.0.20
+
++++ jinan
+
+menu = 济南
+title = 济南
+host = 27.204.0.7
+
++++ zaozhuang
+
+menu = 枣庄
+title = 枣庄
+host = 27.204.192.3
+
++++ heze
+
+menu = 菏泽
+title = 菏泽
+host = 27.206.0.1
+
++++ dezhou
+
+menu = 德州
+title = 德州
+host = 27.207.0.34
+
++++ binzhou
+
+menu = 滨州
+title = 滨州
+host = 27.209.0.18
+
++++ rizhao
+
+menu = 日照
+title = 日照
+host = 39.72.0.4
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ jinan
+
+menu = 济南
+title = 济南
+host = 36.133.120.2
+
++++ heze
+
+menu = 菏泽
+title = 菏泽
+host = 111.14.20.1
+
++++ jining
+
+menu = 济宁
+title = 济宁
+host = 111.14.40.1
+
++++ dongying
+
+menu = 东营
+title = 东营
+host = 111.14.48.85
+
++++ liaocheng
+
+menu = 聊城
+title = 聊城
+host = 111.16.139.119
+
++++ taian
+
+menu = 泰安
+title = 泰安
+host = 111.14.136.1
+
++++ binzhou
+
+menu = 滨州
+title = 滨州
+host = 111.14.224.1
+
++++ linyi
+
+menu = 临沂
+title = 临沂
+host = 111.14.240.8
+
++++ yantai
+
+menu = 烟台
+title = 烟台
+host = 111.15.0.1
+
++++ weihai
+
+menu = 威海
+title = 威海
+host = 111.17.186.1
+
++++ weifang
+
+menu = 潍坊
+title = 潍坊
+host = 111.15.48.33
+
++++ dezhou
+
+menu = 德州
+title = 德州
+host = 111.16.147.13
+
++++ zibo
+
+menu = 淄博
+title = 淄博
+host = 111.16.113.253
+
++++ zaozhuang
+
+menu = 枣庄
+title = 枣庄
+host = 111.17.180.25
+
++++ rizhao
+
+menu = 日照
+title = 日照
+host = 111.17.184.13
+
++++ qingdao
+
+menu = 青岛
+title = 青岛
+host = 111.17.190.17
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ qingdao
+
+menu = 青岛
+title = 青岛
+host = 43.240.60.2
+
++++ jinan
+
+menu = 济南
+title = 济南
+host = 58.56.0.49
+
++++ taian
+
+menu = 泰安
+title = 泰安
+host = 58.56.192.17
+
++++ dezhou
+
+menu = 德州
+title = 德州
+host = 58.56.224.1
+
++++ yantai
+
+menu = 烟台
+title = 烟台
+host = 58.57.0.9
+
++++ linyi
+
+menu = 临沂
+title = 临沂
+host = 58.57.32.2
+
++++ weifang
+
+menu = 潍坊
+title = 潍坊
+host = 58.57.64.1
+
++++ zibo
+
+menu = 淄博
+title = 淄博
+host = 58.57.97.5
+
++++ dongying
+
+menu = 东营
+title = 东营
+host = 58.57.128.1
+
++++ liaocheng
+
+menu = 聊城
+title = 聊城
+host = 58.57.160.65
+
++++ heze
+
+menu = 菏泽
+title = 菏泽
+host = 58.57.192.41
+
++++ zaozhuang
+
+menu = 枣庄
+title = 枣庄
+host = 58.57.224.97
+
++++ binzhou
+
+menu = 滨州
+title = 滨州
+host = 58.58.0.1
+
++++ jining
+
+menu = 济宁
+title = 济宁
+host = 58.58.48.73
+
++++ rizhao
+
+menu = 日照
+title = 日照
+host = 58.58.176.1
+
++++ weihai
+
+menu = 威海
+title = 威海
+host = 58.58.208.245

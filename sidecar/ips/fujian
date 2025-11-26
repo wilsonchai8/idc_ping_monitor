@@ -1,0 +1,181 @@
++ fujian
+
+menu = 福建
+title = 福建
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ fuzhou
+
+menu = 福州
+title = 福州
+host = 27.148.128.1
+
++++ xiamen
+
+menu = 厦门
+title = 厦门
+host = 27.148.160.1
+
++++ nanping
+
+menu = 南平
+title = 南平
+host = 27.150.35.33
+
++++ sanming
+
+menu = 三明
+title = 三明
+host = 27.150.68.1
+
++++ ningde
+
+menu = 宁德
+title = 宁德
+host = 27.150.126.19
+
++++ putian
+
+menu = 莆田
+title = 莆田
+host = 27.150.192.1
+
++++ quanzhou
+
+menu = 泉州
+title = 泉州
+host = 27.151.144.1
+
++++ zhangzhou
+
+menu = 漳州
+title = 漳州
+host = 27.155.33.5
+
++++ longyan
+
+menu = 龙岩
+title = 龙岩
+host = 27.158.128.1
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ fuzhou
+
+menu = 福州
+title = 福州
+host = 36.134.70.10
+
++++ ningde
+
+menu = 宁德
+title = 宁德
+host = 112.5.0.9
+
++++ sanming
+
+menu = 三明
+title = 三明
+host = 112.5.8.6
+
++++ quanzhou
+
+menu = 泉州
+title = 泉州
+host = 112.5.16.1
+
++++ xiamen
+
+menu = 厦门
+title = 厦门
+host = 112.5.64.1
+
++++ zhangzhou
+
+menu = 漳州
+title = 漳州
+host = 112.5.72.1
+
++++ nanping
+
+menu = 南平
+title = 南平
+host = 112.5.80.1
+
++++ putian
+
+menu = 莆田
+title = 莆田
+host = 112.5.104.3
+
++++ longyan
+
+menu = 龙岩
+title = 龙岩
+host = 112.5.194.7
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ fuzhou
+
+menu = 福州
+title = 福州
+host = 36.248.0.1
+
++++ ningde
+
+menu = 宁德
+title = 宁德
+host = 36.248.128.3
+
++++ putian
+
+menu = 莆田
+title = 莆田
+host = 36.248.161.3
+
++++ xiamen
+
+menu = 厦门
+title = 厦门
+host = 36.248.193.4
+
++++ quanzhou
+
+menu = 泉州
+title = 泉州
+host = 36.249.1.1
+
++++ zhangzhou
+
+menu = 漳州
+title = 漳州
+host = 36.249.192.1
+
++++ sanming
+
+menu = 三明
+title = 三明
+host = 36.250.192.1
+
++++ longyan
+
+menu = 龙岩
+title = 龙岩
+host = 36.251.194.1
+
++++ nanping
+
+menu = 南平
+title = 南平
+host = 58.22.176.13

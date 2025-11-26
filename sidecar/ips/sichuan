@@ -1,0 +1,397 @@
++ sichuan
+
+menu = 四川
+title = 四川
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ chengdu
+
+menu = 成都
+title = 成都
+host = 36.111.64.33
+
++++ mianyang
+
+menu = 绵阳
+title = 绵阳
+host = 60.247.128.1
+
++++ deyang
+
+menu = 德阳
+title = 德阳
+host = 61.157.100.3
+
++++ leshan
+
+menu = 乐山
+title = 乐山
+host = 61.157.102.1
+
++++ panzhihua
+
+menu = 攀枝花
+title = 攀枝花
+host = 61.157.107.129
+
++++ yibin
+
+menu = 宜宾
+title = 宜宾
+host = 61.157.108.1
+
++++ zigong
+
+menu = 自贡
+title = 自贡
+host = 61.157.110.1
+
++++ nanchong
+
+menu = 南充
+title = 南充
+host = 61.157.114.1
+
++++ meishan
+
+menu = 眉山
+title = 眉山
+host = 61.157.116.1
+
++++ suining
+
+menu = 遂宁
+title = 遂宁
+host = 61.157.118.1
+
++++ dazhou
+
+menu = 达州
+title = 达州
+host = 61.157.120.9
+
++++ guangan
+
+menu = 广安
+title = 广安
+host = 61.157.121.3
+
++++ guangyuan
+
+menu = 广元
+title = 广元
+host = 61.157.122.1
+
++++ bazhong
+
+menu = 巴中
+title = 巴中
+host = 61.157.125.1
+
++++ luzhou
+
+menu = 泸州
+title = 泸州
+host = 61.157.161.1
+
++++ neijiang
+
+menu = 内江
+title = 内江
+host = 61.157.196.24
+
++++ yaan
+
+menu = 雅安
+title = 雅安
+host = 61.157.220.43
+
++++ liangshan
+
+menu = 凉山
+title = 凉山
+host = 61.157.244.45
+
++++ ziyang
+
+menu = 资阳
+title = 资阳
+host = 61.188.87.65
+
++++ ganzi
+
+menu = 甘孜
+title = 甘孜
+host = 110.188.160.70
+
++++ aba
+
+menu = 阿坝
+title = 阿坝
+host = 118.117.144.1
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ chengdu
+
+menu = 成都
+title = 成都
+host = 36.133.60.75
+
++++ mianyang
+
+menu = 绵阳
+title = 绵阳
+host = 111.9.64.1
+
++++ aba
+
+menu = 阿坝
+title = 阿坝
+host = 111.9.72.1
+
++++ luzhou
+
+menu = 泸州
+title = 泸州
+host = 111.9.76.1
+
++++ guangan
+
+menu = 广安
+title = 广安
+host = 111.9.88.1
+
++++ ganzi
+
+menu = 甘孜
+title = 甘孜
+host = 111.9.91.1
+
++++ liangshan
+
+menu = 凉山
+title = 凉山
+host = 111.9.92.1
+
++++ ziyang
+
+menu = 资阳
+title = 资阳
+host = 111.9.93.2
+
++++ meishan
+
+menu = 眉山
+title = 眉山
+host = 111.9.126.1
+
++++ neijiang
+
+menu = 内江
+title = 内江
+host = 111.9.141.1
+
++++ deyang
+
+menu = 德阳
+title = 德阳
+host = 111.9.144.5
+
++++ nanchong
+
+menu = 南充
+title = 南充
+host = 111.9.160.17
+
++++ guangyuan
+
+menu = 广元
+title = 广元
+host = 111.9.189.1
+
++++ zigong
+
+menu = 自贡
+title = 自贡
+host = 111.9.208.1
+
++++ yibin
+
+menu = 宜宾
+title = 宜宾
+host = 111.9.216.14
+
++++ suining
+
+menu = 遂宁
+title = 遂宁
+host = 111.9.229.1
+
++++ yaan
+
+menu = 雅安
+title = 雅安
+host = 111.9.233.33
+
++++ dazhou
+
+menu = 达州
+title = 达州
+host = 111.9.236.1
+
++++ leshan
+
+menu = 乐山
+title = 乐山
+host = 111.9.248.4
+
++++ panzhihua
+
+menu = 攀枝花
+title = 攀枝花
+host = 112.18.80.1
+
++++ bazhong
+
+menu = 巴中
+title = 巴中
+host = 112.18.171.65
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ chengdu
+
+menu = 成都
+title = 成都
+host = 101.204.2.189
+
++++ aba
+
+menu = 阿坝
+title = 阿坝
+host = 101.205.0.1
+
++++ neijiang
+
+menu = 内江
+title = 内江
+host = 101.205.16.1
+
++++ guangyuan
+
+menu = 广元
+title = 广元
+host = 101.205.28.1
+
++++ bazhong
+
+menu = 巴中
+title = 巴中
+host = 101.205.30.1
+
++++ deyang
+
+menu = 德阳
+title = 德阳
+host = 101.205.32.1
+
++++ dazhou
+
+menu = 达州
+title = 达州
+host = 101.205.64.34
+
++++ yibin
+
+menu = 宜宾
+title = 宜宾
+host = 101.205.96.1
+
++++ ziyang
+
+menu = 资阳
+title = 资阳
+host = 101.205.144.8
+
++++ liangshan
+
+menu = 凉山
+title = 凉山
+host = 101.205.168.1
+
++++ meishan
+
+menu = 眉山
+title = 眉山
+host = 101.205.178.1
+
++++ leshan
+
+menu = 乐山
+title = 乐山
+host = 101.205.197.1
+
++++ mianyang
+
+menu = 绵阳
+title = 绵阳
+host = 101.205.208.1
+
++++ luzhou
+
+menu = 泸州
+title = 泸州
+host = 101.206.32.1
+
++++ guangan
+
+menu = 广安
+title = 广安
+host = 101.206.64.1
+
++++ nanchong
+
+menu = 南充
+title = 南充
+host = 112.192.72.1
+
++++ panzhihua
+
+menu = 攀枝花
+title = 攀枝花
+host = 112.192.98.1
+
++++ zigong
+
+menu = 自贡
+title = 自贡
+host = 112.192.216.4
+
++++ suining
+
+menu = 遂宁
+title = 遂宁
+host = 112.194.128.1
+
++++ ganzi
+
+menu = 甘孜
+title = 甘孜
+host = 112.194.252.1
+
++++ yaan
+
+menu = 雅安
+title = 雅安
+host = 119.5.224.1

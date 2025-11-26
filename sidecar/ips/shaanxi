@@ -1,0 +1,199 @@
++ shaanxi
+
+menu = 陕西
+title = 陕西
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ ankang
+
+menu = 安康
+title = 安康
+host = 36.40.112.1
+
++++ xianyang
+
+menu = 咸阳
+title = 咸阳
+host = 36.40.192.1
+
++++ xian
+
+menu = 西安
+title = 西安
+host = 36.40.228.1
+
++++ yanan
+
+menu = 延安
+title = 延安
+host = 36.41.96.1
+
++++ weinan
+
+menu = 渭南
+title = 渭南
+host = 36.41.144.1
+
++++ yulin
+
+menu = 榆林
+title = 榆林
+host = 36.41.180.1
+
++++ baoji
+
+menu = 宝鸡
+title = 宝鸡
+host = 36.42.34.5
+
++++ hanzhong
+
+menu = 汉中
+title = 汉中
+host = 36.43.88.1
+
++++ tongchuan
+
+menu = 铜川
+title = 铜川
+host = 36.47.96.1
+
++++ shangluo
+
+menu = 商洛
+title = 商洛
+host = 1.81.8.252
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ xian
+
+menu = 西安
+title = 西安
+host = 36.133.96.10
+
++++ weinan
+
+menu = 渭南
+title = 渭南
+host = 111.18.105.25
+
++++ yulin
+
+menu = 榆林
+title = 榆林
+host = 111.18.72.1
+
++++ yanan
+
+menu = 延安
+title = 延安
+host = 111.18.76.53
+
++++ ankang
+
+menu = 安康
+title = 安康
+host = 111.18.79.5
+
++++ tongchuan
+
+menu = 铜川
+title = 铜川
+host = 111.19.1.1
+
++++ xianyang
+
+menu = 咸阳
+title = 咸阳
+host = 111.18.197.83
+
++++ baoji
+
+menu = 宝鸡
+title = 宝鸡
+host = 111.19.1.17
+
++++ shangluo
+
+menu = 商洛
+title = 商洛
+host = 111.19.1.5
+
++++ hanzhong
+
+menu = 汉中
+title = 汉中
+host = 111.19.1.23
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ xian
+
+menu = 西安
+title = 西安
+host = 45.124.22.12
+
++++ xianyang
+
+menu = 咸阳
+title = 咸阳
+host = 61.243.96.20
+
++++ yanan
+
+menu = 延安
+title = 延安
+host = 61.243.107.18
+
++++ yulin
+
+menu = 榆林
+title = 榆林
+host = 113.200.7.5
+
++++ hanzhong
+
+menu = 汉中
+title = 汉中
+host = 113.200.8.5
+
++++ tongchuan
+
+menu = 铜川
+title = 铜川
+host = 113.200.37.1
+
++++ weinan
+
+menu = 渭南
+title = 渭南
+host = 113.200.166.1
+
++++ ankang
+
+menu = 安康
+title = 安康
+host = 113.200.224.3
+
++++ baoji
+
+menu = 宝鸡
+title = 宝鸡
+host = 113.200.226.1
+
++++ shangluo
+
+menu = 商洛
+title = 商洛
+host = 113.201.78.10

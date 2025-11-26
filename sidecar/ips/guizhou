@@ -1,0 +1,181 @@
++ guizhou
+
+menu = 贵州
+title = 贵州
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ guiyang
+
+menu = 贵阳
+title = 贵阳
+host = 1.204.160.1
+
++++ zunyi
+
+menu = 遵义
+title = 遵义
+host = 1.205.8.1
+
++++ qiannan
+
+menu = 黔南
+title = 黔南
+host = 1.205.196.1
+
++++ tongren
+
+menu = 铜仁
+title = 铜仁
+host = 1.205.224.1
+
++++ liupanshui
+
+menu = 六盘水
+title = 六盘水
+host = 1.206.32.1
+
++++ qiandongnan
+
+menu = 黔东南
+title = 黔东南
+host = 1.207.43.1
+
++++ qianxinan
+
+menu = 黔西南
+title = 黔西南
+host = 1.207.144.7
+
++++ anshun
+
+menu = 安顺
+title = 安顺
+host = 1.207.160.1
+
++++ bijie
+
+menu = 毕节
+title = 毕节
+host = 58.42.184.1
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ zunyi
+
+menu = 遵义
+title = 遵义
+host = 43.243.158.1
+
++++ anshun
+
+menu = 安顺
+title = 安顺
+host = 43.243.159.2
+
++++ guiyang
+
+menu = 贵阳
+title = 贵阳
+host = 43.254.100.1
+
++++ qiannan
+
+menu = 黔南
+title = 黔南
+host = 58.16.112.1
+
++++ qiandongnan
+
+menu = 黔东南
+title = 黔东南
+host = 58.16.144.18
+
++++ qianxinan
+
+menu = 黔西南
+title = 黔西南
+host = 58.16.164.1
+
++++ bijie
+
+menu = 毕节
+title = 毕节
+host = 58.16.176.37
+
++++ tongren
+
+menu = 铜仁
+title = 铜仁
+host = 58.16.193.10
+
++++ liupanshui
+
+menu = 六盘水
+title = 六盘水
+host = 58.16.208.22
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ qiandongnan
+
+menu = 黔东南
+title = 黔东南
+host = 112.54.136.2
+
++++ tongren
+
+menu = 铜仁
+title = 铜仁
+host = 112.54.138.1
+
++++ bijie
+
+menu = 毕节
+title = 毕节
+host = 112.54.140.1
+
++++ liupanshui
+
+menu = 六盘水
+title = 六盘水
+host = 112.54.142.1
+
++++ qianxinan
+
+menu = 黔西南
+title = 黔西南
+host = 112.54.143.1
+
++++ guiyang
+
+menu = 贵阳
+title = 贵阳
+host = 112.54.220.1
+
++++ zunyi
+
+menu = 遵义
+title = 遵义
+host = 112.54.222.1
+
++++ anshun
+
+menu = 安顺
+title = 安顺
+host = 117.135.216.5
+
++++ qiannan
+
+menu = 黔南
+title = 黔南
+host = 117.135.225.153

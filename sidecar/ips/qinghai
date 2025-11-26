@@ -1,0 +1,163 @@
++ qinghai
+
+menu = 青海
+title = 青海
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ haidong
+
+menu = 海东
+title = 海东
+host = 36.100.16.5
+
++++ huangnan
+
+menu = 黄南
+title = 黄南
+host = 36.100.32.30
+
++++ xining
+
+menu = 西宁
+title = 西宁
+host = 36.100.40.1
+
++++ haibei
+
+menu = 海北
+title = 海北
+host = 36.100.72.1
+
++++ guoluo
+
+menu = 果洛
+title = 果洛
+host = 36.100.116.1
+
++++ yushu
+
+menu = 玉树
+title = 玉树
+host = 36.100.136.1
+
++++ haixi
+
+menu = 海西
+title = 海西
+host = 61.133.224.1
+
++++ hainan
+
+menu = 海南
+title = 海南
+host = 61.133.245.5
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ xining
+
+menu = 西宁
+title = 西宁
+host = 43.242.180.129
+
++++ haixi
+
+menu = 海西
+title = 海西
+host = 61.243.122.13
+
++++ haidong
+
+menu = 海东
+title = 海东
+host = 103.251.161.3
+
++++ hainan
+
+menu = 海南
+title = 海南
+host = 139.170.42.1
+
++++ huangnan
+
+menu = 黄南
+title = 黄南
+host = 139.170.139.5
+
++++ haibei
+
+menu = 海北
+title = 海北
+host = 139.170.201.3
+
++++ yushu
+
+menu = 玉树
+title = 玉树
+host = 139.170.232.1
+
++++ guoluo
+
+menu = 果洛
+title = 果洛
+host = 139.170.234.1
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ xining
+
+menu = 西宁
+title = 西宁
+host = 111.12.128.1
+
++++ guoluo
+
+menu = 果洛
+title = 果洛
+host = 111.12.205.9
+
++++ haixi
+
+menu = 海西
+title = 海西
+host = 111.44.216.2
+
++++ haidong
+
+menu = 海东
+title = 海东
+host = 111.44.222.65
+
++++ hainan
+
+menu = 海南
+title = 海南
+host = 111.44.222.129
+
++++ haibei
+
+menu = 海北
+title = 海北
+host = 111.44.222.137
+
++++ huangnan
+
+menu = 黄南
+title = 黄南
+host = 111.44.222.161
+
++++ yushu
+
+menu = 玉树
+title = 玉树
+host = 111.44.222.213

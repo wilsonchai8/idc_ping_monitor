@@ -1,0 +1,253 @@
++ jiangsu
+
+menu = 江苏
+title = 江苏
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ wuxi
+
+menu = 无锡
+title = 无锡
+host = 27.0.204.1
+
++++ nanjing
+
+menu = 南京
+title = 南京
+host = 36.111.192.45
+
++++ suzhou
+
+menu = 苏州
+title = 苏州
+host = 42.157.162.4
+
++++ suqian
+
+menu = 宿迁
+title = 宿迁
+host = 43.241.48.1
+
++++ changzhou
+
+menu = 常州
+title = 常州
+host = 43.248.76.66
+
++++ yangzhou
+
+menu = 扬州
+title = 扬州
+host = 45.113.200.2
+
++++ nantong
+
+menu = 南通
+title = 南通
+host = 49.67.4.1
+
++++ xuzhou
+
+menu = 徐州
+title = 徐州
+host = 49.68.0.65
+
++++ yancheng
+
+menu = 盐城
+title = 盐城
+host = 49.69.0.32
+
++++ zhenjiang
+
+menu = 镇江
+title = 镇江
+host = 49.70.129.144
+
++++ taizhou
+
+menu = 泰州
+title = 泰州
+host = 49.71.128.1
+
++++ huaian
+
+menu = 淮安
+title = 淮安
+host = 49.82.8.65
+
++++ lianyungang
+
+menu = 连云港
+title = 连云港
+host = 49.88.5.1
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ nanjing
+
+menu = 南京
+title = 南京
+host = 36.133.24.14
+
++++ suzhou
+
+menu = 苏州
+title = 苏州
+host = 36.133.132.50
+
++++ zhenjiang
+
+menu = 镇江
+title = 镇江
+host = 36.149.32.1
+
++++ huaian
+
+menu = 淮安
+title = 淮安
+host = 36.151.132.243
+
++++ yangzhou
+
+menu = 扬州
+title = 扬州
+host = 36.151.136.1
+
++++ xuzhou
+
+menu = 徐州
+title = 徐州
+host = 36.152.162.5
+
++++ changzhou
+
+menu = 常州
+title = 常州
+host = 36.153.0.1
+
++++ wuxi
+
+menu = 无锡
+title = 无锡
+host = 36.153.96.2
+
++++ nantong
+
+menu = 南通
+title = 南通
+host = 36.153.128.5
+
++++ lianyungang
+
+menu = 连云港
+title = 连云港
+host = 112.0.197.1
+
++++ yancheng
+
+menu = 盐城
+title = 盐城
+host = 112.0.4.11
+
++++ taizhou
+
+menu = 泰州
+title = 泰州
+host = 112.1.130.8
+
++++ suqian
+
+menu = 宿迁
+title = 宿迁
+host = 112.3.16.3
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ suqian
+
+menu = 宿迁
+title = 宿迁
+host = 43.226.164.5
+
++++ wuxi
+
+menu = 无锡
+title = 无锡
+host = 43.231.41.129
+
++++ lianyungang
+
+menu = 连云港
+title = 连云港
+host = 43.250.168.5
+
++++ zhenjiang
+
+menu = 镇江
+title = 镇江
+host = 45.115.165.161
+
++++ nanjing
+
+menu = 南京
+title = 南京
+host = 45.252.105.201
+
++++ yancheng
+
+menu = 盐城
+title = 盐城
+host = 58.240.1.8
+
++++ suzhou
+
+menu = 苏州
+title = 苏州
+host = 58.240.52.153
+
++++ nantong
+
+menu = 南通
+title = 南通
+host = 58.240.244.9
+
++++ xuzhou
+
+menu = 徐州
+title = 徐州
+host = 58.241.48.1
+
++++ changzhou
+
+menu = 常州
+title = 常州
+host = 58.241.52.1
+
++++ yangzhou
+
+menu = 扬州
+title = 扬州
+host = 58.241.128.48
+
++++ taizhou
+
+menu = 泰州
+title = 泰州
+host = 58.241.144.7
+
++++ huaian
+
+menu = 淮安
+title = 淮安
+host = 58.241.192.5

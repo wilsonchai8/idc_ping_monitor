@@ -1,0 +1,217 @@
++ shanxi
+
+menu = 山西
+title = 山西
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ taiyuan
+
+menu = 太原
+title = 太原
+host = 1.68.62.9
+
++++ zhangzhi
+
+menu = 长治
+title = 长治
+host = 1.68.128.2
+
++++ jinzhong
+
+menu = 晋中
+title = 晋中
+host = 1.69.0.1
+
++++ yuncheng
+
+menu = 运城
+title = 运城
+host = 1.69.136.1
+
++++ xinzhou
+
+menu = 忻州
+title = 忻州
+host = 1.69.192.1
+
++++ jincheng
+
+menu = 晋城
+title = 晋城
+host = 1.70.64.1
+
++++ shuozhou
+
+menu = 朔州
+title = 朔州
+host = 1.70.144.1
+
++++ yangquan
+
+menu = 阳泉
+title = 阳泉
+host = 1.70.192.9
+
++++ datong
+
+menu = 大同
+title = 大同
+host = 59.48.0.9
+
++++ linfen
+
+menu = 临汾
+title = 临汾
+host = 59.48.112.1
+
++++ lvliang
+
+menu = 吕梁
+title = 吕梁
+host = 59.48.232.23
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ taiyuan
+
+menu = 太原
+title = 太原
+host = 36.134.76.10
+
++++ jinzhong
+
+menu = 晋中
+title = 晋中
+host = 111.52.2.113
+
++++ lvliang
+
+menu = 吕梁
+title = 吕梁
+host = 111.52.10.2
+
++++ datong
+
+menu = 大同
+title = 大同
+host = 183.203.128.1
+
++++ linfen
+
+menu = 临汾
+title = 临汾
+host = 111.53.128.1
+
++++ yuncheng
+
+menu = 运城
+title = 运城
+host = 111.52.120.4
+
++++ jincheng
+
+menu = 晋城
+title = 晋城
+host = 111.52.121.1
+
++++ shuozhou
+
+menu = 朔州
+title = 朔州
+host = 111.52.127.1
+
++++ xinzhou
+
+menu = 忻州
+title = 忻州
+host = 111.52.240.1
+
++++ zhangzhi
+
+menu = 长治
+title = 长治
+host = 111.53.88.10
+
++++ yangquan
+
+menu = 阳泉
+title = 阳泉
+host = 111.53.160.2
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ jincheng
+
+menu = 晋城
+title = 晋城
+host = 43.249.237.1
+
++++ zhangzhi
+
+menu = 长治
+title = 长治
+host = 60.220.0.2
+
++++ linfen
+
+menu = 临汾
+title = 临汾
+host = 60.221.0.1
+
++++ yuncheng
+
+menu = 运城
+title = 运城
+host = 60.222.0.1
+
++++ jinzhong
+
+menu = 晋中
+title = 晋中
+host = 60.223.0.1
+
++++ taiyuan
+
+menu = 太原
+title = 太原
+host = 61.134.192.1
+
++++ datong
+
+menu = 大同
+title = 大同
+host = 110.51.0.2
+
++++ lvliang
+
+menu = 吕梁
+title = 吕梁
+host = 116.135.0.1
+
++++ yangquan
+
+menu = 阳泉
+title = 阳泉
+host = 116.179.34.3
+
++++ shuozhou
+
+menu = 朔州
+title = 朔州
+host = 116.179.64.1
+
++++ xinzhou
+
+menu = 忻州
+title = 忻州
+host = 116.179.128.1

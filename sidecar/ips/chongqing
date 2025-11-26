@@ -1,0 +1,37 @@
++ chongqing
+
+menu = 重庆
+title = 重庆
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ chongqing
+
+menu = 重庆
+title = 重庆
+host = 14.104.0.1
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ chongqing
+
+menu = 重庆
+title = 重庆
+host = 27.8.1.54
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ chongqing
+
+menu = 重庆
+title = 重庆
+host = 36.133.108.128

@@ -1,0 +1,217 @@
++ zhejiang
+
+menu = 浙江
+title = 浙江
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ hangzhou
+
+menu = 杭州
+title = 杭州
+host = 36.134.0.3
+
++++ shaoxing
+
+menu = 绍兴
+title = 绍兴
+host = 39.170.129.139
+
++++ zhoushan
+
+menu = 舟山
+title = 舟山
+host = 39.171.0.4
+
++++ huzhou
+
+menu = 湖州
+title = 湖州
+host = 39.171.32.1
+
++++ taizhou
+
+menu = 台州
+title = 台州
+host = 39.171.64.67
+
++++ lishui
+
+menu = 丽水
+title = 丽水
+host = 39.172.130.100
+
++++ quzhou
+
+menu = 衢州
+title = 衢州
+host = 39.173.6.193
+
++++ wenzhou
+
+menu = 温州
+title = 温州
+host = 39.174.31.1
+
++++ jinhua
+
+menu = 金华
+title = 金华
+host = 39.183.128.1
+
++++ jiaxing
+
+menu = 嘉兴
+title = 嘉兴
+host = 39.184.128.6
+
++++ ningbo
+
+menu = 宁波
+title = 宁波
+host = 39.185.1.1
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ hangzhou
+
+menu = 杭州
+title = 杭州
+host = 36.20.1.1
+
++++ jinhua
+
+menu = 金华
+title = 金华
+host = 36.22.64.1
+
++++ jiaxing
+
+menu = 嘉兴
+title = 嘉兴
+host = 36.22.176.10
+
++++ shaoxing
+
+menu = 绍兴
+title = 绍兴
+host = 36.25.128.1
+
++++ huzhou
+
+menu = 湖州
+title = 湖州
+host = 36.25.224.1
+
++++ lishui
+
+menu = 丽水
+title = 丽水
+host = 36.26.96.1
+
++++ quzhou
+
+menu = 衢州
+title = 衢州
+host = 36.26.128.1
+
++++ taizhou
+
+menu = 台州
+title = 台州
+host = 36.26.192.1
+
++++ wenzhou
+
+menu = 温州
+title = 温州
+host = 43.240.73.7
+
++++ zhoushan
+
+menu = 舟山
+title = 舟山
+host = 60.163.156.9
+
++++ ningbo
+
+menu = 宁波
+title = 宁波
+host = 60.178.0.73
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ hangzhou
+
+menu = 杭州
+title = 杭州
+host = 43.240.204.8
+
++++ jiaxing
+
+menu = 嘉兴
+title = 嘉兴
+host = 43.248.244.22
+
++++ ningbo
+
+menu = 宁波
+title = 宁波
+host = 60.12.16.1
+
++++ wenzhou
+
+menu = 温州
+title = 温州
+host = 60.12.32.1
+
++++ taizhou
+
+menu = 台州
+title = 台州
+host = 60.12.64.1
+
++++ lishui
+
+menu = 丽水
+title = 丽水
+host = 60.12.72.1
+
++++ shaoxing
+
+menu = 绍兴
+title = 绍兴
+host = 60.12.80.10
+
++++ huzhou
+
+menu = 湖州
+title = 湖州
+host = 60.12.104.5
+
++++ jinhua
+
+menu = 金华
+title = 金华
+host = 60.12.144.9
+
++++ quzhou
+
+menu = 衢州
+title = 衢州
+host = 101.65.192.1
+
++++ zhoushan
+
+menu = 舟山
+title = 舟山
+host = 101.66.194.1

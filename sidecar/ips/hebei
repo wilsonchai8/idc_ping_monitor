@@ -1,0 +1,217 @@
++ hebei
+
+menu = 河北
+title = 河北
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ shijiazhuang
+
+menu = 石家庄
+title = 石家庄
+host = 27.128.112.3
+
++++ hengshui
+
+menu = 衡水
+title = 衡水
+host = 27.128.116.2
+
++++ tangshan
+
+menu = 唐山
+title = 唐山
+host = 27.129.8.1
+
++++ baoding
+
+menu = 保定
+title = 保定
+host = 27.129.16.1
+
++++ handan
+
+menu = 邯郸
+title = 邯郸
+host = 27.129.24.1
+
++++ langfang
+
+menu = 廊坊
+title = 廊坊
+host = 27.129.32.2
+
++++ qinhuangdao
+
+menu = 秦皇岛
+title = 秦皇岛
+host = 27.129.40.2
+
++++ cangzhou
+
+menu = 沧州
+title = 沧州
+host = 27.129.44.1
+
++++ xingtai
+
+menu = 邢台
+title = 邢台
+host = 27.129.48.1
+
++++ zhangjiakou
+
+menu = 张家口
+title = 张家口
+host = 27.129.52.1
+
++++ chengde
+
+menu = 承德
+title = 承德
+host = 27.129.60.2
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ zhangjiakou
+
+menu = 张家口
+title = 张家口
+host = 36.143.0.103
+
++++ shijiazhuang
+
+menu = 石家庄
+title = 石家庄
+host = 111.11.1.6
+
++++ baoding
+
+menu = 保定
+title = 保定
+host = 36.143.26.2
+
++++ tangshan
+
+menu = 唐山
+title = 唐山
+host = 111.11.22.9
+
++++ hengshui
+
+menu = 衡水
+title = 衡水
+host = 111.11.0.1
+
++++ langfang
+
+menu = 廊坊
+title = 廊坊
+host = 111.11.3.134
+
++++ handan
+
+menu = 邯郸
+title = 邯郸
+host = 111.11.8.161
+
++++ cangzhou
+
+menu = 沧州
+title = 沧州
+host = 111.11.10.161
+
++++ qinhuangdao
+
+menu = 秦皇岛
+title = 秦皇岛
+host = 111.11.24.81
+
++++ chengde
+
+menu = 承德
+title = 承德
+host = 111.11.34.17
+
++++ xingtai
+
+menu = 邢台
+title = 邢台
+host = 111.11.56.4
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ shijiazhuang
+
+menu = 石家庄
+title = 石家庄
+host = 43.239.120.11
+
++++ langfang
+
+menu = 廊坊
+title = 廊坊
+host = 45.113.20.1
+
++++ tangshan
+
+menu = 唐山
+title = 唐山
+host = 60.2.0.123
+
++++ baoding
+
+menu = 保定
+title = 保定
+host = 60.4.1.1
+
++++ handan
+
+menu = 邯郸
+title = 邯郸
+host = 60.5.17.5
+
++++ xingtai
+
+menu = 邢台
+title = 邢台
+host = 60.6.0.150
+
++++ qinhuangdao
+
+menu = 秦皇岛
+title = 秦皇岛
+host = 60.7.4.1
+
++++ zhangjiakou
+
+menu = 张家口
+title = 张家口
+host = 60.8.0.21
+
++++ hengshui
+
+menu = 衡水
+title = 衡水
+host = 60.9.0.2
+
++++ cangzhou
+
+menu = 沧州
+title = 沧州
+host = 61.55.2.7
+
++++ chengde
+
+menu = 承德
+title = 承德
+host = 61.182.181.17

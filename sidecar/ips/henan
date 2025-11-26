@@ -1,0 +1,343 @@
++ henan
+
+menu = 河南
+title = 河南
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ xinxiang
+
+menu = 新乡
+title = 新乡
+host = 1.196.48.1
+
++++ shangqiu
+
+menu = 商丘
+title = 商丘
+host = 1.196.64.2
+
++++ kaifeng
+
+menu = 开封
+title = 开封
+host = 1.196.113.1
+
++++ nanyang
+
+menu = 南阳
+title = 南阳
+host = 1.196.128.1
+
++++ sanmenxia
+
+menu = 三门峡
+title = 三门峡
+host = 1.196.136.1
+
++++ luoyang
+
+menu = 洛阳
+title = 洛阳
+host = 1.196.160.1
+
++++ xinyang
+
+menu = 信阳
+title = 信阳
+host = 1.196.192.1
+
++++ hebi
+
+menu = 鹤壁
+title = 鹤壁
+host = 1.197.0.1
+
++++ tahe
+
+menu = 漯河
+title = 漯河
+host = 1.197.41.33
+
++++ zhoukou
+
+menu = 周口
+title = 周口
+host = 1.197.64.1
+
++++ zhumadian
+
+menu = 驻马店
+title = 驻马店
+host = 1.197.100.3
+
++++ xuchang
+
+menu = 许昌
+title = 许昌
+host = 1.197.136.1
+
++++ jiaozuo
+
+menu = 焦作
+title = 焦作
+host = 1.197.156.1
+
++++ jiyuan
+
+menu = 济源
+title = 济源
+host = 1.197.203.1
+
++++ puyang
+
+menu = 濮阳
+title = 濮阳
+host = 1.198.0.1
+
++++ zhengzhou
+
+menu = 郑州
+title = 郑州
+host = 1.198.6.193
+
++++ anyang
+
+menu = 安阳
+title = 安阳
+host = 1.198.228.1
+
++++ pingdingshan
+
+menu = 平顶山
+title = 平顶山
+host = 1.194.0.10
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ xinxiang
+
+menu = 新乡
+title = 新乡
+host = 27.50.132.2
+
++++ luoyang
+
+menu = 洛阳
+title = 洛阳
+host = 42.51.0.1
+
++++ zhumadian
+
+menu = 驻马店
+title = 驻马店
+host = 42.225.0.1
+
++++ zhoukou
+
+menu = 周口
+title = 周口
+host = 42.225.64.15
+
++++ jiyuan
+
+menu = 济源
+title = 济源
+host = 42.225.98.2
+
++++ pingdingshan
+
+menu = 平顶山
+title = 平顶山
+host = 42.225.128.1
+
++++ shangqiu
+
+menu = 商丘
+title = 商丘
+host = 42.225.192.3
+
++++ hebi
+
+menu = 鹤壁
+title = 鹤壁
+host = 42.226.64.1
+
++++ jiaozuo
+
+menu = 焦作
+title = 焦作
+host = 42.226.192.1
+
++++ xuchang
+
+menu = 许昌
+title = 许昌
+host = 42.227.64.1
+
++++ nanyang
+
+menu = 南阳
+title = 南阳
+host = 42.227.128.2
+
++++ xinyang
+
+menu = 信阳
+title = 信阳
+host = 42.227.192.9
+
++++ zhengzhou
+
+menu = 郑州
+title = 郑州
+host = 42.228.0.2
+
++++ anyang
+
+menu = 安阳
+title = 安阳
+host = 42.229.142.1
+
++++ sanmenxia
+
+menu = 三门峡
+title = 三门峡
+host = 42.230.68.1
+
++++ kaifeng
+
+menu = 开封
+title = 开封
+host = 42.232.208.1
+
++++ puyang
+
+menu = 濮阳
+title = 濮阳
+host = 42.237.64.1
+
++++ tahe
+
+menu = 漯河
+title = 漯河
+host = 42.238.0.1
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ zhengzhou
+
+menu = 郑州
+title = 郑州
+host = 36.133.36.121
+
++++ nanyang
+
+menu = 南阳
+title = 南阳
+host = 39.148.4.154
+
++++ xinxiang
+
+menu = 新乡
+title = 新乡
+host = 39.149.48.31
+
++++ zhoukou
+
+menu = 周口
+title = 周口
+host = 39.149.82.231
+
++++ tahe
+
+menu = 漯河
+title = 漯河
+host = 39.149.122.1
+
++++ shangqiu
+
+menu = 商丘
+title = 商丘
+host = 39.165.80.1
+
++++ puyang
+
+menu = 濮阳
+title = 濮阳
+host = 39.149.192.3
+
++++ zhumadian
+
+menu = 驻马店
+title = 驻马店
+host = 39.149.208.182
+
++++ xinyang
+
+menu = 信阳
+title = 信阳
+host = 39.149.226.214
+
++++ kaifeng
+
+menu = 开封
+title = 开封
+host = 39.151.1.1
+
++++ luoyang
+
+menu = 洛阳
+title = 洛阳
+host = 39.151.2.9
+
++++ xuchang
+
+menu = 许昌
+title = 许昌
+host = 39.149.149.58
+
++++ jiyuan
+
+menu = 济源
+title = 济源
+host = 39.151.17.1
+
++++ anyang
+
+menu = 安阳
+title = 安阳
+host = 39.164.0.1
+
++++ hebi
+
+menu = 鹤壁
+title = 鹤壁
+host = 39.164.224.1
+
++++ jiaozuo
+
+menu = 焦作
+title = 焦作
+host = 39.164.240.4
+
++++ pingdingshan
+
+menu = 平顶山
+title = 平顶山
+host = 39.165.32.1
+
++++ sanmenxia
+
+menu = 三门峡
+title = 三门峡
+host = 39.165.64.1

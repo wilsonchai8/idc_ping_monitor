@@ -1,0 +1,235 @@
++ neimenggu
+
+menu = 内蒙古
+title = 内蒙古
+
+++ dianxin
+
+menu = 电信
+title = 电信
+
++++ huhehaote
+
+menu = 呼和浩特
+title = 呼和浩特
+host = 36.102.3.193
+
++++ chifeng
+
+menu = 赤峰
+title = 赤峰
+host = 36.102.36.3
+
++++ eerduosi
+
+menu = 鄂尔多斯
+title = 鄂尔多斯
+host = 36.102.48.7
+
++++ wulanchabu
+
+menu = 乌兰察布
+title = 乌兰察布
+host = 36.102.68.1
+
++++ hulunbeier
+
+menu = 呼伦贝尔
+title = 呼伦贝尔
+host = 36.102.80.9
+
++++ xingan
+
+menu = 兴安
+title = 兴安
+host = 36.102.104.1
+
++++ bayannaoer
+
+menu = 巴彦淖尔
+title = 巴彦淖尔
+host = 36.102.112.1
+
++++ baotou
+
+menu = 包头
+title = 包头
+host = 1.180.32.17
+
++++ wuhai
+
+menu = 乌海
+title = 乌海
+host = 1.180.128.95
+
++++ tongliao
+
+menu = 通辽
+title = 通辽
+host = 1.180.176.1
+
++++ xilinguolei
+
+menu = 锡林郭勒
+title = 锡林郭勒
+host = 1.180.216.11
+
++++ alashan
+
+menu = 阿拉善
+title = 阿拉善
+host = 121.56.192.1
+
+++ yidong
+
+menu = 移动
+title = 移动
+
++++ huhehaote
+
+menu = 呼和浩特
+title = 呼和浩特
+host = 36.134.88.77
+
++++ tongliao
+
+menu = 通辽
+title = 通辽
+host = 39.153.128.2
+
++++ eerduosi
+
+menu = 鄂尔多斯
+title = 鄂尔多斯
+host = 39.153.160.1
+
++++ baotou
+
+menu = 包头
+title = 包头
+host = 39.153.176.11
+
++++ xilinguolei
+
+menu = 锡林郭勒
+title = 锡林郭勒
+host = 39.153.192.1
+
++++ wuhai
+
+menu = 乌海
+title = 乌海
+host = 39.153.208.17
+
++++ alashan
+
+menu = 阿拉善
+title = 阿拉善
+host = 39.154.33.7
+
++++ bayannaoer
+
+menu = 巴彦淖尔
+title = 巴彦淖尔
+host = 39.154.96.2
+
++++ wulanchabu
+
+menu = 乌兰察布
+title = 乌兰察布
+host = 39.154.196.7
+
++++ chifeng
+
+menu = 赤峰
+title = 赤峰
+host = 39.155.0.80
+
++++ xingan
+
+menu = 兴安
+title = 兴安
+host = 39.155.64.6
+
++++ hulunbeier
+
+menu = 呼伦贝尔
+title = 呼伦贝尔
+host = 39.155.96.16
+
+++ liantong
+
+menu = 联通
+title = 联通
+
++++ xilinguolei
+
+menu = 锡林郭勒
+title = 锡林郭勒
+host = 1.24.8.1
+
++++ huhehaote
+
+menu = 呼和浩特
+title = 呼和浩特
+host = 1.24.16.1
+
++++ baotou
+
+menu = 包头
+title = 包头
+host = 1.24.20.8
+
++++ wulanchabu
+
+menu = 乌兰察布
+title = 乌兰察布
+host = 1.24.32.7
+
++++ alashan
+
+menu = 阿拉善
+title = 阿拉善
+host = 1.24.64.1
+
++++ bayannaoer
+
+menu = 巴彦淖尔
+title = 巴彦淖尔
+host = 1.24.96.1
+
++++ xingan
+
+menu = 兴安
+title = 兴安
+host = 1.24.120.3
+
++++ wuhai
+
+menu = 乌海
+title = 乌海
+host = 1.24.148.1
+
++++ eerduosi
+
+menu = 鄂尔多斯
+title = 鄂尔多斯
+host = 1.24.230.1
+
++++ hulunbeier
+
+menu = 呼伦贝尔
+title = 呼伦贝尔
+host = 1.26.0.1
+
++++ tongliao
+
+menu = 通辽
+title = 通辽
+host = 1.26.32.1
+
++++ chifeng
+
+menu = 赤峰
+title = 赤峰
+host = 1.26.96.1
